@@ -1,45 +1,34 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
+layout: cv
+title: Yujun/Katherine Chen's CV
+---
+# Katherine Chen
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="chenyuun.com">chenyujun.com</a>
+email:
+  url: mailto:Katherinechan912@gmail.com
+  text: Katherinechen912@gmail.com
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2019`
+__DePaul University, Master of Fine Art in Film.__
+- GPA 3.79/4 MBA: Operation Management, Marketing 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2015`
+__Hong Kong Baptist University, Bachelor of Cinema and Television__
+- Relevant Coursework: Mass Communication; Media Research Methods
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2011 - 2013`
+__Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
 
 
 ## Awards
