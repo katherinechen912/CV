@@ -10,12 +10,9 @@ email:
   text: Katherinechen912@gmail.com
 </div>
 
-
-
 ### Research interests
 
 Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
-
 
 ## Education
 
