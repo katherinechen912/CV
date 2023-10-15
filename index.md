@@ -74,8 +74,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > **Pioneered** research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
-### _Dust in the Wind_\
-[[video preview](https://vimeo.com/421269223)]
+### _Dust in the Wind_<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > **Official Selections**: Orlando International Film Fest, etc. (9 in total)
 
@@ -83,15 +82,13 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > **Award Winner**: Tripvill International, Independent-Star Munich
 
-### _Bury_\
-[[video preview](https://youtu.be/vQkkPUOiRms)]
+### _Bury_<br />[[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
 > **Official Selections**: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
 > **Finalist**: Rome Prisma Film Awards
 
-### _Promise Me_\
-[[video preview](https://youtu.be/VDJEbO3byPg)]
+### _Promise Me_<br />[[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
 > **Official Selections**: San Francisco Short, etc. (7 in total)
 
@@ -99,8 +96,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > **Award Winner**: Falcon International Film Fest
 
-### _Memories_\
-[[video preview](https://youtu.be/W8IQD60tcD8)]
+### _Memories_<br />[[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
 > **Official Selections**: Vegas Cinefest International Fest, etc. (6 in total)
 
@@ -108,8 +104,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > **Award Winner**: Feel The Reel International Film Fest
 
-### _The Sword in Qin_\
-[[video preview](https://youtu.be/FnCVFK1JDrY)]
+### _The Sword in Qin_<br />[[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
 > **Official Selections**: Bharat International Film Fest, etc. (6 in total) 
 
@@ -117,18 +112,15 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > **Award Winner**: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
-### _Coporeal_\
-[[video preview](https://youtu.be/4fvArbg5GW0)]
+### _Coporeal_[[video preview](https://youtu.be/4fvArbg5GW0)]
 `2017` 
 > **Official Selections**: Diabolical Horror Film Fest, etc. (3 in total)
 
-### _Evelyn_\
-[[video preview](https://youtu.be/qj0MUfaKbw8)]
+### _Evelyn_<br />[[video preview](https://youtu.be/qj0MUfaKbw8)]
 `2016` 
 > **Official Selections**: Chilliwack Independent Fest
 
-### _And Now Makes Three_\
-[[video preview](https://vimeo.com/159316215)]
+### _And Now Makes Three_<br />[[video preview](https://vimeo.com/159316215)]
 `2016` 
 > **Official Selections**: Sidewalk Film Fest
 
@@ -169,8 +161,7 @@ __Xiamen Television Station__ News Director
 > **Delivered** news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
 ## Leadership experience
-
-[[video preview](https://youtu.be/tYXD7bBrYoo)]
+### [[video preview](https://youtu.be/tYXD7bBrYoo)]
 `2022` 
 __Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor						 	
 > **Directed** high-quality forum production, ensuring seamless collaboration and top-tier quality.
@@ -197,42 +188,30 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Technical skills
 
 > Video editing
->> Premiere
->> After Effects
->> DaVinci Resolve
->> Final Cut Pro
+>> Premiere&emsp;After Effects&emsp;DaVinci Resolve&emsp;Final Cut Pro
 
 > Audio editing
->> Audition
->> Pro Tools
+>> Audition&emsp;Pro Tools
 
 > Graphic design
->> Photoshop
->> Procreate
->> Spline
->>Mental Canvas
+>> Photoshop&emsp;Procreate&emsp;Spline&emsp;Mental Canvas
 
 > Design tool
->> Figma
->> Adobe Illustrator
+>> Figma&emsp;Adobe Illustrator
 
 > Movie budgeting/scheduling
->> MM Budgeting
->> MM Scheduling
+>> MM Budgeting&emsp;MM Scheduling
 
 > 3D modeling
->> C4D
->> Blender
->> Unreal Engine
+>> C4D&emsp;Blender&emsp;Unreal Engine
 
 > Programming language
->> Python
->> C++
+>> Python&emsp;C++
 
 ## Language
 
-* Spanish: DELE Spanish Diploma - Level A2&emsp;* English: Fluent
-* English: Fluent&emsp;* Mandarin: Native&emsp;* Taiwanese: Native&emsp;* Cantonese: Fluent
+* Spanish: DELE Spanish Diploma - Level A2&emsp;English: Fluent
+* English: Fluent&emsp;Mandarin: Native&emsp;Taiwanese: Native&emsp;Cantonese: Fluent
 
 ## Certifications
 
