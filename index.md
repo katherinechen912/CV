@@ -34,7 +34,6 @@ __Hong Kong Baptist University, Teaching English as a Second Language (Transferr
 
 ## Research experience
 ### Master researcher
-
 `2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Studio__
 > Pioneered in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
@@ -58,7 +57,6 @@ __DePaul University, College of Computing and Digital Media__
 > Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
 ### Undergraduate researcher
-
 `2015` 
 __Copyright Awareness and Media Download Behavior among College Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
@@ -219,7 +217,6 @@ DaVinci Resolve|Spline|Unreal Engine
 Final Cut Pro|Mental Canvas
 
 ## Language
-
 Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
 
 ## Certifications
