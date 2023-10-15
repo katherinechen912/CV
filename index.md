@@ -221,7 +221,7 @@ Final Cut Pro|Mental Canvas
 
 ## Language
 
-Spanish: DELE Spanish Diploma - Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
+Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
 
 ## Certifications
 
