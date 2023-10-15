@@ -128,7 +128,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > **Official Selections**: Chilliwack Independent Fest
 
 ### _And Now Makes Three_
-##### [[video preview](https://vimeo.com/159316215)]
+######  [[video preview](https://vimeo.com/159316215)]
 `2016` 
 > **Official Selections**: Sidewalk Film Fest
 
@@ -170,7 +170,7 @@ __Xiamen Television Station__ News Director
 
 ## Leadership experience
 
-####[[video preview](https://youtu.be/tYXD7bBrYoo)]
+#### [[video preview](https://youtu.be/tYXD7bBrYoo)]
 `2022` 
 __Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor						 	
 > **Directed** high-quality forum production, ensuring seamless collaboration and top-tier quality.
@@ -195,6 +195,7 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
+
 > Video editing
 >> Premiere
 >> After Effects
@@ -235,6 +236,21 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * Mandarin: Native
 * Taiwanese: Native
 * Cantonese: Fluent
+
+## Technical skills
+
+* Python
+* Javascript (incl. Typescript, React)
+* R
+* Go
+* AWS
+* UNIX
+* Cluster computing
+* Docker
+* Git and GitHub
+* HTML and CSS
+* Bash
+* Agile development
 
 ## Certifications
 
