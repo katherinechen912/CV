@@ -45,7 +45,6 @@ q:before, q:after {
 table {
 	border-collapse: separate;
 	border-spacing: 1em;
-	<table class="table-fixed">
 	<style>
 	}
 .center
