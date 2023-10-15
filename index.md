@@ -43,7 +43,7 @@ __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Stud
 
 `2016` 
 __DePaul University, College of Computing and Digital Media__
-> - Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+> **Compiled** a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
 
 > **Authored** ten reports on global film adaptations, underscoring distribution trends and audience shifts.
 
@@ -83,8 +83,8 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > **Award Winner**: Tripvill International, Independent-Star Munich
 
-### _Bury_
- ### [[video preview](https://youtu.be/vQkkPUOiRms)]
+### _Bury_ 
+### [[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
 > **Official Selections**: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
