@@ -85,8 +85,8 @@ p code {
 
 ul {
 	position: relative;
-	left: -25%;
-	width: 100%;
+	left: 25%;
+	width: 650.%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
   columns: 7;
@@ -189,6 +189,19 @@ strong {
 	display: none;
 }
 
+.footer {
+    -webkit-column-count: 7; /* Chrome, Safari, Opera */
+    -moz-column-count: 7; /* Firefox */
+    column-count: 7;
+		position: relative;
+		left: 25%;
+		margin-top: 2em;
+		margin-bottom: 7em;
+		margin-right: 0;
+		width: 65%;
+}
+
+#technical
 
 
 /*
