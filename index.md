@@ -18,7 +18,6 @@ title: Yujun/Katherine Chen's CV
 >  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 ## Education
-
 `2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 
@@ -125,7 +124,6 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Official Selections: Sidewalk Film Fest
 
 ## Employment
-
 `2023-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
 > Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
@@ -175,7 +173,6 @@ __Sanyouxing: Hangover Relief Products__ Consultant, Media Operations Strategist
 > Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
 ## Teaching and mentoring
-
 `2015` 
 __Artist Coach/Arts Portfolio Mentor__ 
 
@@ -187,30 +184,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
 
-> Video editing
->> Premiere&emsp;After Effects&emsp;DaVinci Resolve&emsp;Final Cut Pro
-
-> Audio editing
->> Audition&emsp;Pro Tools
-
-> Graphic design
->> Photoshop&emsp;Procreate&emsp;Spline&emsp;Mental Canvas
-
-> Design tool
->> Figma&emsp;Adobe Illustrator
-
-> Movie budgeting/scheduling
->> MM Budgeting&emsp;MM Scheduling
-
-> 3D modeling
->> C4D&emsp;Blender&emsp;Unreal Engine
-
-> Programming language
->> Python&emsp;C++
-
-## Technical skills
-
-Video editing|Audio editing|Graphic design|Design tool|3D modeling|Movie budgeting/scheduling|Programming 
+`Video editing`|`Audio editing`|`Graphic design`|`Design tool`|`3D modeling`|`Movie budgeting/scheduling`|`Programming` 
 :------------|:------------|:-------------|:----------|:----------|:-------------------------|:----------
 Premiere|Audition|Photoshop|Figma|C4D|MM Budgeting|Python
 After Effects|Pro Tools|Procreate|Adobe Illustrator|Blender|MM Scheduling|C++
@@ -220,8 +194,7 @@ Final Cut Pro|Mental Canvas
 ## Language
 Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
 
-## Certifications
-
+## Certifications 
  __ACE® Fitness Certifications - American Council on Exercise__ 
 
 <!-- ### Footer
