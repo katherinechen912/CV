@@ -47,11 +47,12 @@ table {
 	border-spacing: 1em;
 	<table class="table-fixed">
 	<style>
+	}
 .center
 {
   width: 100%;
   display: table;
-  padding-left: 35%;
+  padding-left: 65%;
 }
 <style>
 td {
@@ -60,8 +61,6 @@ td {
 	div.relative {
   position: relative;
   left: 30px;
-  border: 3px solid #73AD21;
-}
 }
 	tr:hover {background-color: #D6EEEE;}
 
