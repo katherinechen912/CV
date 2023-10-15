@@ -52,7 +52,6 @@ table {
 {
   width: 100%;
   display: table;
-  padding-left: 25%;
 }
 <style>
 td {
@@ -60,7 +59,7 @@ td {
 }
 	div.relative {
   position: relative;
-  left: 30px;
+  Right: 60px;
 }
 	tr:hover {background-color: #D6EEEE;}
 
