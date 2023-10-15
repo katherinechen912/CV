@@ -10,6 +10,8 @@ title: Yujun/Katherine Chen's CV
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
+ |
+<i class="fa fa-github"></i> <a href="https://github.com/katherinechen912">Github</a>
 </div>
 
 ## Research interests
@@ -35,23 +37,23 @@ __Hong Kong Baptist University, Teaching English as a Second Language (Transferr
 
 `2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Studio__
-> **Pioneered** in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
+> Pioneered in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
 
-> **Dissected** the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
+> Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
 
-> **Showcased** findings at a pivotal graduate symposium on Asian film history.
+> Showcased findings at a pivotal graduate symposium on Asian film history.
 
 `2016` 
 __DePaul University, College of Computing and Digital Media__
-> **Compiled** a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+> Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
 
-> **Authored** ten reports on global film adaptations, underscoring distribution trends and audience shifts.
+> Authored ten reports on global film adaptations, underscoring distribution trends and audience shifts.
 
-> **Orchestrated** research on story frameworks, dissecting conventional narrative arcs and the hero's journey.
+> Orchestrated research on story frameworks, dissecting conventional narrative arcs and the hero's journey.
 
-> **Crafted** 8+ script coverage, pinpointing strengths and areas of improvement in peer submissions.
+> Crafted 8+ script coverage, pinpointing strengths and areas of improvement in peer submissions.
 
-> **Conducted** analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
+> Conducted analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
 
 > **Piloted** 20+ film projects, infusing research insights into the cinematic narrative.
 
@@ -59,120 +61,120 @@ __DePaul University, College of Computing and Digital Media__
 
 `2015` 
 __Copyright Awareness and Media Download Behavior among College Students in China__
-> **Administered** a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
+> Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
 
-> **Generated** a report on China's copyright evolution, intellectual property, and media piracy.
+> Generated a report on China's copyright evolution, intellectual property, and media piracy.
 
 `2014` 
 __Auteur Theory and Cinematic Styles Analysis__
-> **Spearheaded** a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
+> Spearheaded a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
 
-> **Delved into** Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
+> Delved into Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
 
-> **Scrutinized** the strategic color usage in Yi-Mou Zhang's "Red Sorghum" and its narrative impact.
+> Scrutinized the strategic color usage in Yi-Mou Zhang's "Red Sorghum" and its narrative impact.
 
-> **Pioneered** research using varied methodologies to elucidate cinematic styles and auteurs' impact.
+> Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
 ### _Dust in the Wind_<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
-> **Official Selections**: Orlando International Film Fest, etc. (9 in total)
+> Official Selections: Orlando International Film Fest, etc. (9 in total)
 
-> **Finalist**: Wales International Film Fest, Cyprus International
+> Finalist: Wales International Film Fest, Cyprus International
 
-> **Award Winner**: Tripvill International, Independent-Star Munich
+> Award Winner: Tripvill International, Independent-Star Munich
 
 ### _Bury_<br />[[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
-> **Official Selections**: Rolling Ideas, Reel East Texas, etc. (4 in total)
+> Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
-> **Finalist**: Rome Prisma Film Awards
+> Finalist: Rome Prisma Film Awards
 
 ### _Promise Me_<br />[[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
-> **Official Selections**: San Francisco Short, etc. (7 in total)
+> Official Selections: San Francisco Short, etc. (7 in total)
 
-> **Semi-Finalist**: BLASTOFF
+> Semi-Finalist: BLASTOFF
 
-> **Award Winner**: Falcon International Film Fest
+> Award Winner: Falcon International Film Fest
 
 ### _Memories_<br />[[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
-> **Official Selections**: Vegas Cinefest International Fest, etc. (6 in total)
+> Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 
-> **Semi-Finalist**: AltFF Alternative, Blow-Up Arthouse, etc. (3 in total)
+> Semi-Finalist: AltFF Alternative, Blow-Up Arthouse, etc. (3 in total)
 
-> **Award Winner**: Feel The Reel International Film Fest
+> Award Winner: Feel The Reel International Film Fest
 
 ### _The Sword in Qin_<br />[[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
-> **Official Selections**: Bharat International Film Fest, etc. (6 in total) 
+> Official Selections: Bharat International Film Fest, etc. (6 in total) 
 
-> **Semi-Finalist**: ShanghaiPRIDE Film Festival
+> Semi-Finalist: ShanghaiPRIDE Film Festival
 
-> **Award Winner**: India Film Fest, WorldFest-Houston, etc. (3 in total)
+> Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ### _Coporeal_<br />[[video preview](https://youtu.be/4fvArbg5GW0)]
 `2017` 
-> **Official Selections**: Diabolical Horror Film Fest, etc. (3 in total)
+> Official Selections: Diabolical Horror Film Fest, etc. (3 in total)
 
 ### _Evelyn_<br />[[video preview](https://youtu.be/qj0MUfaKbw8)]
 `2016` 
-> **Official Selections**: Chilliwack Independent Fest
+> Official Selections: Chilliwack Independent Fest
 
 ### _And Now Makes Three_<br />[[video preview](https://vimeo.com/159316215)]
 `2016` 
-> **Official Selections**: Sidewalk Film Fest
+> Official Selections: Sidewalk Film Fest
 
 ## Employment
 
 `2023-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
-> **Led** game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
+> Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
 
-> **Refined** strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
+> Refined strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
 
 `2021-2023` 
 __Ernst & Young EY wavespace™__ Videographer, Editor, and Designer 
-> **Spearheaded** video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
+> Spearheaded video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
 
- **Led** in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
+> Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
 
 `2020-2021` 
 __Y-Platform (Multi-channel network)__ Producer
-> **Crafted** 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
+> Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
 
-> **Streamlined** coordination among crew, influencers, and clients like Peking University and People's Daily. 
+> Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily. 
 
 `2017-2020` 
 __Homy Casa, Inc.__ Project Coordinator, Photographer				
-> **Liaised** between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
+> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
 
 `2016` 
 __Stagecoach Entertainment__ Script Reader						 	
-> **Analyzed** scripts, offering coverage of critical elements and pinpointing potential hits for varied audiences.
+> Analyzed scripts, offering coverage of critical elements and pinpointing potential hits for varied audiences.
 
 `2015` 
 __Phoenix Satellite Television__ Documentary Director						 	
-> **Directed** and edited documentaries, ensuring compelling narratives and top-tier production quality.
+> Directed and edited documentaries, ensuring compelling narratives and top-tier production quality.
 
 `2015` 
 __Xiamen Television Station__ News Director						 	
-> **Delivered** news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
+> Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
 ## Leadership experience
 ### [[video preview](https://youtu.be/tYXD7bBrYoo)]
 `2022` 
 __Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor						 	
-> **Directed** high-quality forum production, ensuring seamless collaboration and top-tier quality.
+> Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
 __CCTV-10 “Tell” & Sustainable Fashion & Health Tech Foundation__ Director, Media Operations Manager	
-> **Championed** the project, turning vision into reality through adept media management. 
+> Championed the project, turning vision into reality through adept media management. 
 
 `2021` 
 __Sanyouxing: Hangover Relief Products__ Consultant, Media Operations Strategist
-> **Steered** the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
+> Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
 ## Teaching and mentoring
 
@@ -208,6 +210,15 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 > Programming language
 >> Python&emsp;C++
 
+## Technical skills
+
+Video editing|Audio editing|Graphic design|Design tool|3D modeling|Movie budgeting/scheduling|Programming language
+:------------|:------------|:-------------|:----------|:----------|:-------------------------|:--------------------
+Premiere|Audition|Photoshop|Figma|C4D|Python
+After Effects|Pro Tools|Procreate|Adobe Illustrator|Blender|C++
+DaVinci Resolve|Spline|Unreal Engine
+Final Cut Pro|Mental Canvas
+
 ## Language
 
 * Spanish: DELE Spanish Diploma - Level A2&emsp;English: Fluent
@@ -216,9 +227,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Certifications
 
  __ACE® Fitness Certifications - American Council on Exercise__ 
-
-
-
 
 <!-- ### Footer
 
