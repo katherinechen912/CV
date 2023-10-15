@@ -45,13 +45,14 @@ q:before, q:after {
 table {
 	border-collapse: separate;
 	border-spacing: 1em;
+      }
 	<style>
-	}
-.center
+	<div style="table-align: right">
+
 {
   width: 100%;
   display: table;
-  padding-left: 65%;
+  padding-left: 25%;
 }
 <style>
 td {
