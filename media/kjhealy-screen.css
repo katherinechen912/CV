@@ -57,7 +57,8 @@ td {
 }
 	div.relative {
   position: relative;
-  Right: 60px;
+  Right: 
+	  260px;
 }
 	tr:hover {background-color: #D6EEEE;}
 
