@@ -192,6 +192,17 @@ strong {
 	visibility: hidden;
 }
 
+.footer {
+    -webkit-column-count: 7; /* Chrome, Safari, Opera */
+    -moz-column-count: 7; /* Firefox */
+    column-count: 7;
+		position: relative;
+		left: 33%;
+		margin-top: 2em;
+		margin-bottom: 3em;
+		margin-right: 0;
+		width: 65%;
+}
 
 
 
