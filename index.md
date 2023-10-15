@@ -83,14 +83,14 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > - Award Winner: Tripvill International, Independent-Star Munich
 
-### Bury
+### _Bury_
 #### [[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
 > - Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
 > - Finalist: Rome Prisma Film Awards
 
-### Promise Me
+### _Promise Me_
 #### [[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
 > - Official Selections: San Francisco Short, etc. (7 in total)
@@ -99,7 +99,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > - Award Winner: Falcon International Film Fest
 
-### Memories
+### _Memories_
 #### [[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
 > - Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
@@ -108,7 +108,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > - Award Winner: Feel The Reel International Film Fest
 
-### The Sword in Qin
+### _The Sword in Qin_
 #### [[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
 > - Official Selections: Bharat International Film Fest, etc. (6 in total) 
@@ -117,17 +117,17 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > - Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
-### Coporeal
+### _Coporeal_
 #### [[video preview](https://youtu.be/4fvArbg5GW0)]
 `2017` 
 > - Official Selections: Diabolical Horror Film Fest, etc. (3 in total)
 
-### Evelyn
+### _Evelyn_
 #### [[video preview](https://youtu.be/qj0MUfaKbw8)]
 `2016` 
 > - Official Selections: Chilliwack Independent Fest
 
-### And Now Makes Three
+### _And Now Makes Three_
 #### [[video preview](https://vimeo.com/159316215)]
 `2016` 
 > - Official Selections: Sidewalk Film Fest
