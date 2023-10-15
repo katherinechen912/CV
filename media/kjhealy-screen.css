@@ -55,10 +55,8 @@ table {
 td {
   text-align: center;
 }
-	div.relative {
-  position: relative;
-  Right: 
-	  260px;
+table {
+  float: left;
 }
 	tr:hover {background-color: #D6EEEE;}
 
