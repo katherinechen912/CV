@@ -49,9 +49,8 @@ table {
 	<style>
 .center
 {
-  width: auto;
+  width: 100%;
   display: table;
-  margin-left: auto;
   padding-left: 35%;
 }
 <style>
