@@ -75,8 +75,8 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 ## Film experience
 ### _Dust in the Wind_
-##### [[video preview](https://vimeo.com/421269223)]
 `2020` 
+[[video preview](https://vimeo.com/421269223)]
 > **Official Selections**: Orlando International Film Fest, etc. (9 in total)
 
 > **Finalist**: Wales International Film Fest, Cyprus International
