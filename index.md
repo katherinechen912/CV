@@ -1,4 +1,3 @@
-
 ---
 layout: cv
 title: Yujun/Katherine Chen's CV
