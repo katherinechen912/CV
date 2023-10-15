@@ -55,7 +55,7 @@ __DePaul University, College of Computing and Digital Media__
 
 > Conducted analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
 
-> **Piloted** 20+ film projects, infusing research insights into the cinematic narrative.
+> Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
 ### Undergraduate researcher
 
@@ -211,7 +211,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 >> Python&emsp;C++
 
 ## Technical skills
-
 Video editing|Audio editing|Graphic design|Design tool|3D modeling|Movie budgeting/scheduling|Programming 
 :------------|:------------|:-------------|:----------|:----------|:-------------------------|:----------
 Premiere|Audition|Photoshop|Figma|C4D|MM Budgeting|Python
