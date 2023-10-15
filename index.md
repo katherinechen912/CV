@@ -214,15 +214,14 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 Video editing|Audio editing|Graphic design|Design tool|3D modeling|Movie budgeting/scheduling|Programming 
 :------------|:------------|:-------------|:----------|:----------|:-------------------------|:----------
-Premiere|Audition|Photoshop|Figma|C4D|Python
-After Effects|Pro Tools|Procreate|Adobe Illustrator|Blender|C++
+Premiere|Audition|Photoshop|Figma|C4D|MM Budgeting|Python
+After Effects|Pro Tools|Procreate|Adobe Illustrator|Blender|MM Scheduling|C++
 DaVinci Resolve|Spline|Unreal Engine
 Final Cut Pro|Mental Canvas
 
 ## Language
 
-* Spanish: DELE Spanish Diploma - Level A2&emsp;English: Fluent
-* English: Fluent&emsp;Mandarin: Native&emsp;Taiwanese: Native&emsp;Cantonese: Fluent
+Spanish: DELE Spanish Diploma - Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
 
 ## Certifications
 
