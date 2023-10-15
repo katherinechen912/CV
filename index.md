@@ -184,6 +184,10 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
 
+
+
+
+
 | Video editing |  Audio editing |  Graphic design | Design tool | 3D modeling | Film budgeting | Programming language | 
 | :-------------: | :---------------: | :--------------: | :------------: | :----------: | :--------------: | :-------------------------: |
 |Premiere|Audition |Photoshop |Figma |C4D |MM Budgeting |Python |
@@ -194,7 +198,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Language
 Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
-
 
 ## Certifications 
  __ACE® Fitness Certifications - American Council on Exercise__ 
