@@ -209,6 +209,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 >> Python&emsp;C++
 
 ## Technical skills
+
 Video editing|Audio editing|Graphic design|Design tool|3D modeling|Movie budgeting/scheduling|Programming 
 :------------|:------------|:-------------|:----------|:----------|:-------------------------|:----------
 Premiere|Audition|Photoshop|Figma|C4D|MM Budgeting|Python
