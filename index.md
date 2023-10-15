@@ -192,10 +192,10 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 |After Effects |Pro Tools |Procreate |Adobe Illustrator |Blender |MM Scheduling |C++ |
 |DaVinci Resolve |Spline |Unreal Engine |
 |Final Cut Pro |Mental Canvas |
-
+</div>
 ## Language
 Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
-
+</div>
 ## Certifications 
  __ACE® Fitness Certifications - American Council on Exercise__ 
 
