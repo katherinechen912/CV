@@ -43,11 +43,10 @@ q:before, q:after {
 	content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+	border-collapse: separate;
+	border-spacing: 1em;
 	<table class="table-fixed">
 	<style>
-	border-spacing: var(--tw-border-spacing-x) 1rem;
 .center
 {
   width: auto;
