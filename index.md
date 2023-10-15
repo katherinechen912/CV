@@ -195,36 +195,38 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
-* ### Video editing
-> Premiere
-> After Effects
-> DaVinci Resolve
-> Final Cut Pro
-> 
-* ### Audio editing
-> Audition
-> Pro Tools
-* 
-### Graphic design
-* Photoshop
-* Procreate
-* Spline
-* Mental Canvas
-* 
-### Design tool
-* Figma
-* Adobe Illustrator
-* 
-### Movie budgeting/scheduling
-* MM Budgeting
-* MM Scheduling
-### 3D modeling
-* C4D
-* Blender
-* Unreal Engine
-### Programming language
-* Python
-* C++
+> Video editing
+>> Premiere
+>> After Effects
+>> DaVinci Resolve
+>> Final Cut Pro
+
+> Audio editing
+>> Audition
+>> Pro Tools
+
+> Graphic design
+>> Photoshop
+>> Procreate
+>> Spline
+>>Mental Canvas
+
+> Design tool
+>> Figma
+>> Adobe Illustrator
+
+> Movie budgeting/scheduling
+>> MM Budgeting
+>> MM Scheduling
+
+> 3D modeling
+>> C4D
+>> Blender
+>> Unreal Engine
+
+> Programming language
+>> Python
+>> C++
 
 ## Language
 
