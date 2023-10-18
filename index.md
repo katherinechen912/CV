@@ -170,7 +170,6 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
-
 * __Audio editing__ <br>Audition; Pro Tools
 * __3D modeling__ <br>C4D; Blender; Unreal Engine
 * __Design tool__ <br>Figma; Adobe Illustrator
