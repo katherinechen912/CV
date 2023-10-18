@@ -54,17 +54,17 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 80%;
-	line-height: 1em;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	margin-top: 1em;
+	margin-top: 0em;
 	margin-left: 1em;
 }
 
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0em;
 	margin-right: 0;
 	width: 65%;
 }
