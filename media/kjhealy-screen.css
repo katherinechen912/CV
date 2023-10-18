@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0;
 	margin-right: 0;
 	width: 70%;
 }
@@ -132,6 +132,7 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
+	color: #BF0000;
 	font-style: italic;
 	font-size: 110%;
 }
@@ -150,7 +151,7 @@ h3 {
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
-	top: 1.3em;
+	top: 1.5em;
 	text-align: right;
 	width: 20%;
 }
