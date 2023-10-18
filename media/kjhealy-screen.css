@@ -64,9 +64,9 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0em;
+	margin-bottom: -1em;
 	margin-right: 0;
-	width: 50%;
+	width: 70%;
 }
 
 code {
