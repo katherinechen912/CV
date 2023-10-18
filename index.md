@@ -199,15 +199,12 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 > Web Design
 >> CSS          HTML 
 
-## Certifications 
- __ACE® Fitness Certifications - American Council on Exercise__ 
-
 ## Language
 > __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native; 
 > __Spanish__: DELE Spanish Diploma-Level A2
 
 ## Certifications 
- __ACE® Fitness Certifications - American Council on Exercise__ 
+ __ACE® Fitness Certifications__ - American Council on Exercise
 
 <!-- ### Footer
 
