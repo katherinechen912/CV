@@ -131,7 +131,7 @@ __Y-Platform (Multi-channel network)__ Producer
 
 `2017-2020` 
 __Homy Casa, Inc.__ Project Coordinator, Photographer				
-> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, <br>driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
+> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair,<br />driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
 
 `2016` 
 __Stagecoach Entertainment__ Script Reader						 	
@@ -170,13 +170,13 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
-* __Audio editing__ <br>Audition; Pro Tools
-* __3D modeling__ <br>C4D; Blender; Unreal Engine
-* __Design tool__ <br>Figma; Adobe Illustrator
-* __Movie budgeting/scheduling__ <br>MM Budgeting; MM Scheduling
-* __Programming language__ <br>Python; C++ 
-* __Web Design__ <br> CSS; HTML
-* __Graphic design__ <br>Photoshop; Procreate;<br>Spline; Mental Canvas
+* __Audio editing__<br />Audition; Pro Tools
+* __3D modeling__<br />C4D; Blender; Unreal Engine
+* __Design tool__<br />Figma; Adobe Illustrator
+* __Movie budgeting/scheduling__<br />MM Budgeting; MM Scheduling
+* __Programming language__<br />Python; C++ 
+* __Web Design__<br />CSS; HTML
+* __Graphic design__<br>Photoshop; Procreate;<br />Spline; Mental Canvas
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
