@@ -184,12 +184,9 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Technical skills
 ### Video editing
 
-> Premiere
+> Premiere   After Effects  DaVinci Resolve
 
-## Technical skills
 
-| **Video editing** |  **Audio editing** |  **Graphic design** | **Design tool** | **3D modeling**  | **Film budgeting**  |
-| :---------------: | :-----------------: | :---------------: | :--------------: | :--------------: | :--------------: |
 |Premiere|Audition |Photoshop |Figma |C4D |MM Budgeting |
 |After Effects |Pro Tools |Procreate |Adobe Illustrator |Blender |MM Scheduling |
 |DaVinci Resolve |Spline |Unreal Engine |
