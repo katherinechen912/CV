@@ -134,6 +134,7 @@ h1 {
 
 h1 strong {
   font-weight: normal !important;
+	text-align: center;
   line-height: 1em;
 }
 
