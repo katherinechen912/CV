@@ -85,13 +85,13 @@ p code {
 
 ul { 
 	position: relative;
-	left: 33%;
+	left: 25%;
 	width: 65%;
 	margin-bottom: 1.5em;
-	margin-top: -0.5em;
-	 columns: 4;
-  -webkit-columns: 4;
-  -moz-columns: 4
+	margin-top: 1em;
+	 columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3
 	 text-align: left; 
 }
 
