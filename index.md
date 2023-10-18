@@ -110,18 +110,6 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
-### _Coporeal_<br />[[video preview](https://youtu.be/4fvArbg5GW0)]
-`2017` 
-> Official Selections: Diabolical Horror Film Fest, etc. (3 in total)
-
-### _Evelyn_<br />[[video preview](https://youtu.be/qj0MUfaKbw8)]
-`2016` 
-> Official Selections: Chilliwack Independent Fest
-
-### _And Now Makes Three_<br />[[video preview](https://vimeo.com/159316215)]
-`2016` 
-> Official Selections: Sidewalk Film Fest
-
 ## Employment
 `2023-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
