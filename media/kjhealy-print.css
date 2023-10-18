@@ -123,11 +123,19 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 28%;
+  font-family: "Avenir Next", sans-serif;
+  text-align: center;
+  font-size: 50pt;
+  font-weight: lighter;
+  position: relative;
+  line-height: 1.2em;
+  position: relative;
+  /* left: 28%; */
+}
+
+h1 strong {
+  font-weight: normal !important;
+  line-height: 1em;
 }
 
 h1+p { 
