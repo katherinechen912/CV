@@ -43,22 +43,9 @@ q:before, q:after {
 	content: none;
 }
 table {
-	border-collapse: separate;
-	border-spacing: 1em;
-      }
-	<style>
-{
-  width: 100%;
-  display: table;
+	border-collapse: collapse;
+	border-spacing: 0;
 }
-<style>
-td {
-  text-align: center;
-}
-table {
-  float: left;
-}
-	tr:hover {background-color: #D6EEEE;}
 
 /* end of reset */
 
@@ -96,15 +83,12 @@ p code {
 }
 
 
-ul {
+ul { 
 	position: relative;
-	left: 25%;
-	width: 65.%;
+	left: 33%;
+	width: 65%;
 	margin-bottom: 1.5em;
-	margin-top: 1em;
-  columns: 7;
-  -webkit-columns: 7;
-  -moz-columns: 7;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -202,19 +186,6 @@ strong {
 	display: none;
 }
 
-.footer {
-    -webkit-column-count: 7; /* Chrome, Safari, Opera */
-    -moz-column-count: 7; /* Firefox */
-    column-count: 7;
-		position: relative;
-		left: 25%;
-		margin-top: 2em;
-		margin-bottom: 7em;
-		margin-right: 0;
-		width: 65%;
-}
-
-#technical
 
 
 /*
