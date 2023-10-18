@@ -110,7 +110,7 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
+	left: 28%;
 	width: 100%;
 }
 
@@ -123,8 +123,8 @@ h1,h2,h3,h4 {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  /* font-size: 50pt; */
-  font-size: 600%;
+  /* font-size: 40pt; */
+  font-size: 500%;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
