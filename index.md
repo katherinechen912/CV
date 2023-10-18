@@ -185,7 +185,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 * __Audio editing__ Audition; Pro Tools
 * __Graphic design__ Photoshop; Procreate; Spline; Mental Canvas
-* __Design tool__ Figma; Adobe; Illustrator
+* __Design tool__ Figma; Adobe Illustrator
 * __Movie budgeting/scheduling__ MM Budgeting; MM Scheduling
 
 * __3D modeling__ C4D; Blender; Unreal Engine
