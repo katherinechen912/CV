@@ -121,15 +121,19 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 33%;
+  font-family: "Avenir Next", sans-serif;
+  text-align: center;
+  /* font-size: 50pt; */
+  font-size: 600%;
+  font-weight: lighter;
+  position: relative;
+  line-height: 1.2em;
+  position: relative;
+  /* left: 28%; */
 }
 
-h1+p { 
-	/*subtitle*/
+h2 { 
+
 	color: #a00;
 	font-style: italic;
 	font-size: 110%;
