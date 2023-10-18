@@ -83,15 +83,12 @@ p code {
 }
 
 
-ul {
+ul { 
 	position: relative;
 	left: 28%;
 	width: 65%;
 	margin-bottom: 1em;
-	margin-top: 2em;
-	columns: 3;
-	-webkit-columns: 3;
-	-moz-columns: 3;
+	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -192,17 +189,6 @@ strong {
 	visibility: hidden;
 }
 
-.footer {
-    -webkit-column-count: 7; /* Chrome, Safari, Opera */
-    -moz-column-count: 7; /* Firefox */
-    column-count: 7;
-		position: relative;
-		left: 33%;
-		margin-top: 2em;
-		margin-bottom: 3em;
-		margin-right: 0;
-		width: 65%;
-}
 
 
 
