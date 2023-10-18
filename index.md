@@ -10,8 +10,7 @@ title: Yujun/Katherine Chen's CV
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
- |
-<i class="fa fa-github"></i> <a href="https://github.com/katherinechen912">Github</a>
+
 </div>
 
 ## Research interests
