@@ -104,8 +104,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	padding-left: 0em;
+	text-indent: 0em;
 	/*color: #777;*/
 }
 
