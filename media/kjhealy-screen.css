@@ -137,16 +137,9 @@ h1 strong {
   line-height: 1em;
 }
 
-h2 { 
-
-	color: #a00;
-	font-style: italic;
-	font-size: 110%;
-}
-
 h2 {
 	font-size: 1.1em;
-	color:  #BF0000;
+	color:  #a00;
 	margin-top: 0;
 	position: relative;
 	line-height: 2em;
