@@ -87,8 +87,11 @@ ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
-	margin-bottom: 1em;
+	margin-bottom: 6em;
 	/*margin-top: -0.5em;*/
+	 columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4
 }
 
 /*uncomment to get dashes in the list*/
