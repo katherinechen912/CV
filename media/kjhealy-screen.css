@@ -92,13 +92,13 @@ ul {
 	 columns: 3;
   -webkit-columns: 3;
   -moz-columns: 3
+	 text-align: center; 
 }
 
 /*uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
 	position: relative;
-	left: -0.25em;
 }*/
 
 li {
