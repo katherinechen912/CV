@@ -204,7 +204,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Language
 > __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native; 
-> Spanish: DELE Spanish Diploma-Level A2|English: Fluent|Mandarin: Native|Taiwanese: Native|Cantonese: Fluent
+> __Spanish__: DELE Spanish Diploma-Level A2
 
 ## Certifications 
  __ACE® Fitness Certifications - American Council on Exercise__ 
