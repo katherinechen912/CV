@@ -183,15 +183,15 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
 ### Video editing
-
 > Premiere   After Effects  DaVinci Resolve Final Cut Pro
+
+### Audio editing
 > Audition   Pro Tools
+
+### Graphic design
 > Photoshop  Procreate      Spline          Mental Canvas
 
-|Premiere|Audition |Photoshop |Figma |C4D |MM Budgeting |
-|After Effects |Pro Tools |Procreate |Adobe Illustrator |Blender |MM Scheduling |
-|DaVinci Resolve |Spline |Unreal Engine |
-|Final Cut Pro |Mental Canvas |
+
 
 ## Certifications 
  __ACE® Fitness Certifications - American Council on Exercise__ 
