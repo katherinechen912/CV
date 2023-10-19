@@ -163,7 +163,44 @@ h3 {
 	text-align: right;
 	width: 20%;
 }
+p,h4 {
+  position: relative;
+  left: 23%;
+  margin-bottom: 7pt;
+  margin-right: 0;
+  width: 77%;
+  text-align: justify;
+  text-justify: inter-word;
+  clear: both;
+}
 
+h4 {
+  font-weight: bold;
+  margin-top: 10pt;
+  text-align: left;
+}
+
+/* copied from code */
+h4 code {
+  /* font-weight: normal; */
+  font-weight: bold;
+  color: #424242;
+  letter-spacing: 0px;
+  font-size: 90%;
+  line-height: calc(1.3em / 0.9);
+  margin-bottom: inherit;
+  position: relative;
+  text-align: right;
+  float: right;
+  clear: none;
+  right: 0px;
+  margin-left: 10px;
+}
+
+h2 + h4,
+h3 + h4{
+  margin-top: 0px;
+}
 
 a {
 	color: inherit;
