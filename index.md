@@ -72,7 +72,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
-### _Dust in the Wind_<br />[[video preview](https://vimeo.com/421269223)]
+### __Dust in the Wind__&emsp;[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 
@@ -80,7 +80,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: Tripvill International, Independent-Star Munich
 
-### _Bury_<br />[[video preview](https://youtu.be/vQkkPUOiRms)]
+### __Bury__&emsp;[[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
 > Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
