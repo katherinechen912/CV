@@ -33,7 +33,7 @@ __Hong Kong Baptist University, Teaching English as a Second Language (Transferr
 ## Research experience
 ### Master researcher
 `2017` 
-__Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Studio__
+__Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
 > Pioneered in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
 
 > Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
@@ -148,15 +148,15 @@ __Xiamen Television Station__ News Director
 ## Leadership experience
 ### [[video preview](https://youtu.be/tYXD7bBrYoo)]					
 `2022` 
-__Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor 	
+__Smart__ Customer Service Experience Innovation. Forum Consultant, Videographer, Editor 	
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
-__CCTV-10 “Tell” & Sustainable Fashion & Health Tech Foundation__ Media Operations Manager	
+__CCTV-10__ “Tell” & Sustainable Fashion & Health Tech Foundation. Diector, Media Operations Manager	
 > Championed the project, turning vision into reality through adept media management. 
 
 `2021` 
-__Sanyouxing: Hangover Relief Products__ Consultant, Media Operations Strategist
+__Sanyouxing__ Hangover Relief Products. Consultant, Media Operations Strategist
 > Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
 ## Teaching & mentoring
