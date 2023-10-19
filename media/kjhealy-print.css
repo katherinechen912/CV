@@ -177,6 +177,8 @@ p,h4 {
 }
 
 h4 {
+  position: relative;
+ text-align: justify;
   font-weight: bold;
   margin-top: 10pt;
   text-align: left;
