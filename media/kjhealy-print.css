@@ -148,13 +148,6 @@ h2 {
 	width: 18%;
 }
 
-
-h2+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
-}
-
 h3 {
 	font-size: 1.5em;
 	line-height: 1.5em; 
