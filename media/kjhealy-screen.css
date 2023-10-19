@@ -86,7 +86,7 @@ p code {
 ul { 
 	position: relative;
 	left: 33%;
-	width: 50%;
+	width: 40%;
 	margin-bottom: 0.2em;
 	margin-top: 0;
 	 columns: 3;
@@ -111,7 +111,7 @@ li {
 li ul {
 	position: relative;
 	left: 28%;
-	width: 100%;
+	width: 60%;
 }
 
 h1,h2,h3,h4 {
