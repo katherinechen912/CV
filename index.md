@@ -56,7 +56,7 @@ __DePaul University, College of Computing and Digital Media__
 
 ### Undergraduate researcher
 `2015` 
-__Copyright Awareness and Media Download Behavior among College Students in China__
+__Copyright Awareness and Media Download Behavior among Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
 
 > Generated a report on China's copyright evolution, intellectual property, and media piracy.
