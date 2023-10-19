@@ -146,9 +146,8 @@ __Xiamen Television Station__ News Director
 > Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
 ## Leadership experience
-### [[video preview](https://youtu.be/tYXD7bBrYoo)]
 `2022` 
-__Smart__: Customer Service Experience Innovation Forum Consultant, Videographer, Editor						 	
+__Smart__: Customer Service Experience Innovation Forum Consultant, Videographer, Editor	[[video preview](https://youtu.be/tYXD7bBrYoo)]					 	
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
