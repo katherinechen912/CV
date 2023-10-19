@@ -57,13 +57,12 @@ body {
 	line-height: 1.4em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	
 }
 
 p {
 	position: relative;
 	left: 28%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0;
 	margin-right: 0;
 	width: 65%;
 }
