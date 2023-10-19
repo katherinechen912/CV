@@ -161,9 +161,9 @@ h3 {
 p,h4 {
   position: relative;
   left: 23%;
-  margin-bottom: 7pt;
+  margin-bottom: 0;
   margin-right: 0;
-  width: 77%;
+  width: 18%;
   text-align: justify;
   text-justify: inter-word;
   clear: both;
