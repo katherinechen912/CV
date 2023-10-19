@@ -147,7 +147,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 0;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
