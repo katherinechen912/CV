@@ -148,15 +148,15 @@ __Xiamen Television Station__ News Director
 ## Leadership experience
 ### [[video preview](https://youtu.be/tYXD7bBrYoo)]					
 `2022` 
-__Smart__: Customer Service Experience Innovation Forum Consultant, Videographer, Editor 	
+__Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor 	
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
-__CCTV-10__ “Tell” & Sustainable Fashion & Health Tech Foundation Media Operations Manager	
+__CCTV-10 “Tell” & Sustainable Fashion & Health Tech Foundation Media Operations__ Manager	
 > Championed the project, turning vision into reality through adept media management. 
 
 `2021` 
-__Sanyouxing__: Hangover Relief Products Consultant, Media Operations Strategist
+__Sanyouxing: Hangover Relief Products__ Consultant, Media Operations Strategist
 > Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
 ## Teaching & mentoring
