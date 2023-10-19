@@ -72,7 +72,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
-### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
+### __Dust in the Wind__ [[video preview](https://vimeo.com/421269223)]
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 
