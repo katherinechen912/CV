@@ -70,7 +70,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 60%;
-	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
 }
@@ -141,7 +140,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.1em;
 	color: #a00;
 	margin-top: 0;
 	position: relative;
