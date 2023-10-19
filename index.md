@@ -72,7 +72,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
-### __Dust in the Wind__&emsp;[[video preview](https://vimeo.com/421269223)]
+### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 
@@ -86,7 +86,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Finalist: Rome Prisma Film Awards
 
-### __Promise Me__&emsp;[[video preview](https://youtu.be/VDJEbO3byPg)]
+### __Promise Me__<br />[[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
 > Official Selections: San Francisco Short, etc. (7 in total)
 
@@ -94,7 +94,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: Falcon International Film Fest
 
-### __Memories__&emsp;[[video preview](https://youtu.be/W8IQD60tcD8)]
+### __Memories__<br />[[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 
@@ -102,7 +102,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: Feel The Reel International Film Fest
 
-### __The Sword in Qin__&emsp;[[video preview](https://youtu.be/FnCVFK1JDrY)]
+### __The Sword in Qin__<br />[[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
 > Official Selections: Bharat International Film Fest, etc. (6 in total) 
 
