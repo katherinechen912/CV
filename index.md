@@ -171,9 +171,9 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
 * __Audio editing__<br />Audition; Pro Tools
-* __3D modeling__<br />C4D; Blender; Unreal Engine
+* __3D modeling__<br />C4D; Blender;<br />Unreal Engine
 * __Design tool__<br />Figma; Adobe Illustrator
-* __Movie budgeting/scheduling__<br />MM Budgeting; MM Scheduling
+* __Movie scheduling<br />MM Budgeting;<br />MM Scheduling
 * __Programming language__<br />Python; C++ 
 * __Web Design__<br />CSS; HTML
 * __Graphic design__<br>Photoshop; Procreate;<br />Spline; Mental Canvas
