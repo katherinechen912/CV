@@ -86,7 +86,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Finalist: Rome Prisma Film Awards
 
-### _Promise Me_<br />[[video preview](https://youtu.be/VDJEbO3byPg)]
+### __Promise Me__&emsp;[[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
 > Official Selections: San Francisco Short, etc. (7 in total)
 
@@ -94,7 +94,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: Falcon International Film Fest
 
-### _Memories_<br />[[video preview](https://youtu.be/W8IQD60tcD8)]
+### __Memories__&emsp;[[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 
@@ -102,7 +102,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Award Winner: Feel The Reel International Film Fest
 
-### _The Sword in Qin_<br />[[video preview](https://youtu.be/FnCVFK1JDrY)]
+### __The Sword in Qin__&emsp;[[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
 > Official Selections: Bharat International Film Fest, etc. (6 in total) 
 
