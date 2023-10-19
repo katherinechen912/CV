@@ -112,7 +112,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: 60%;
 
 }
 
@@ -151,7 +151,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 16%;
 }
 
 h3 {
