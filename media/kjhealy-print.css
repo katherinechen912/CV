@@ -54,7 +54,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 10pt;
-	line-height: 1.8em;
+	line-height: 1.7em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 }
@@ -69,7 +69,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
 }
