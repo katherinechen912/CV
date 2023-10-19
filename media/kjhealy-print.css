@@ -147,7 +147,7 @@ h2 {
 	color: #a00;
 	margin-top: 0;
 	position: relative;
-	top: 1.7em;
+	top: 1.5em;
 	text-align: right;
 	width: 18%;
 }
@@ -159,7 +159,7 @@ h3 {
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
-	text-align: right;
+	text-align: justify;
 	width: 18%;
 }
 
