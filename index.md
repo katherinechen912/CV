@@ -159,7 +159,7 @@ __CCTV-10__ “Tell” & Sustainable Fashion & Health Tech Foundation Media Oper
 __Sanyouxing__: Hangover Relief Products Consultant, Media Operations Strategist
 > Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
-## Teaching and mentoring
+## Teaching & mentoring
 `2015` 
 __Artist Coach/Arts Portfolio Mentor__ 
 
