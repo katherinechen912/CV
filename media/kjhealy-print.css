@@ -53,11 +53,11 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
+	font-size: 10pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/0.5em;*/
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*margin-top: 0;
+	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
@@ -87,7 +87,7 @@ ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0;
 	margin-top: 0;
 	 columns: 3;
   -webkit-columns: 3;
@@ -104,8 +104,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 0em;
-	text-indent: 0em;
+	padding-left: 1.25em;
+	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
@@ -113,7 +113,7 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-
+	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
@@ -125,12 +125,12 @@ h1,h2,h3,h4 {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 20pt;
+  font-size: 25pt;
   font-weight: lighter;
   position: relative;
   line-height: 1em;
   position: relative;
-  /* left: 40%; */
+  /* left: 28%; */
 }
 
 h1 strong {
@@ -138,63 +138,31 @@ h1 strong {
   line-height: 1em;
 }
 
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 1.5em;
+	margin-top: 2em;
 	position: relative;
-	top: 1.5em;
+	top: 1.2em;
 	text-align: right;
 	width: 18%;
 }
+
 
 h3 {
-	font-size: 1.5em;
-	line-height: 1.5em; 
+	font-size: 1em;
+	line-height: 2em; 
 	color: #ccc;
 	position: relative;
-	top: 0;
+	top: 1.6em;
 	text-align: right;
 	width: 18%;
-}
-
-p,h4 {
-  position: relative;
-  left: 23%;
-  margin-bottom: 0;
-  margin-right: 0;
-  width: 18%;
-  text-align: justify;
-  text-justify: inter-word;
-  clear: both;
-}
-
-h4 {
-  font-weight: bold;
-  margin-top: 10pt;
-  text-align: left;
-}
-
-/* copied from code */
-h4 code {
-  /* font-weight: normal; */
-  font-weight: bold;
-  color: #424242;
-  letter-spacing: 0px;
-  font-size: 90%;
-  line-height: calc(1.3em / 0.9);
-  margin-bottom: inherit;
-  position: relative;
-  text-align: right;
-  float: right;
-  clear: none;
-  right: 0px;
-  margin-left: 10px;
-}
-
-h2 + h4,
-h3 + h4{
-  margin-top: 0px;
 }
 
 a {
@@ -212,7 +180,7 @@ a:hover {
 	left: 28%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 60%;
+	font-size: 80%;
 }
 
 #webaddress a {
