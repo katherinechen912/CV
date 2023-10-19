@@ -54,8 +54,9 @@ __DePaul University, College of Computing and Digital Media__
 
 > Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
-### Undergraduate<br />researcher
+### Undergraduate
 `2015` 
+### researcher
 __Copyright Awareness and Media Download Behavior among College Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
 
@@ -72,7 +73,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Film experience
-### __Dust in the Wind__ [[video preview](https://vimeo.com/421269223)]
+### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 
