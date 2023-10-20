@@ -178,8 +178,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * __Programming language__<br />Python; C++ 
 
 ## Language
-__English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2<br />
-
+__English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
 
 
 <!-- ### Footer
