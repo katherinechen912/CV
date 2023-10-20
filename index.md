@@ -4,8 +4,6 @@ title: Yujun/Katherine Chen's CV
 ---
 # Yujun/Katherine **Chen** <a href="https://katherinechen912.github.io/CV/">link</a>
 
-<a href="https://katherinechen912.github.io/CV/"># Yujun/Katherine **Chen**</a>
-
 <div id="webaddress">
 <a href="mailto:Yujunchen2024@163.com">Yujunchen2024@163.com</a>
 |
@@ -182,7 +180,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
 
-
+---
 
 
 <!-- ### Footer
