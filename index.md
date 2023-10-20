@@ -10,10 +10,7 @@ title: Yujun/Katherine Chen's CV
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
-|
-<i class="fa fa-wix"></i> <a href="https://katherinechen912.github.io/CV/">github</a>
-|
-+8615821160912
+
 </div>
 
 ## Research interests
@@ -134,7 +131,7 @@ __Y-Platform (Multi-channel network)__ Producer
 
 `2017-2020` 
 __Homy Casa, Inc.__ Project Coordinator, Photographer				
-> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
+> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair,<br />driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
 
 `2016` 
 __Stagecoach Entertainment__ Script Reader						 	
@@ -181,7 +178,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * __Programming language__<br />Python; C++ 
 
 ## Language
-__English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
+__English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2<br />
 
 
 
