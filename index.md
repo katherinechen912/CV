@@ -180,6 +180,8 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
 
+<br />
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
