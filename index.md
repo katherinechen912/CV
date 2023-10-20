@@ -2,7 +2,7 @@
 layout: cv
 title: Yujun/Katherine Chen's CV
 ---
-# Yujun/Katherine **Chen** <a href="https://katherinechen912.github.io/CV/">link</a>
+# Yujun/Katherine **Chen** 
 
 <div id="webaddress">
 <a href="mailto:Yujunchen2024@163.com">Yujunchen2024@163.com</a>
@@ -10,7 +10,8 @@ title: Yujun/Katherine Chen's CV
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
-|+8615821160912
+|
+<i class="fa fa-wix"></i> <a href="https://katherinechen912.github.io/CV/">github</a>
 </div>
 
 ## Research interests
@@ -180,7 +181,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
 
----
 
 
 <!-- ### Footer
