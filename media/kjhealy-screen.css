@@ -127,7 +127,7 @@ h1 {
   font-size: 350%;
   font-weight: lighter;
   position: relative;
-  line-height: 1.2em;
+  line-height: 2em;
   position: relative;
 }
 
@@ -197,6 +197,7 @@ strong {
 #address {
 	display: none;
 }
+
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
