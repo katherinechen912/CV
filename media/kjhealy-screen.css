@@ -123,6 +123,7 @@ h1,h2,h3,h4 {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: right;
+	margin-top: 1.5em;
   /* font-size: 40pt; */
   font-size: 350%;
   font-weight: lighter;
@@ -134,7 +135,7 @@ h1 {
 h1 strong {
   font-weight: normal !important;
 	text-align: center;
-  line-height: 1em;
+  line-height: 2em;
 }
 
 h1+p { 
