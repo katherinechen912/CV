@@ -119,7 +119,7 @@ h1,h2,h3,h4 {
 
 h1 {
   font-family: "Avenir Next", sans-serif;
-  text-align: center;
+  text-align: right;
   font-size: 25pt;
   font-weight: lighter;
   position: relative;
@@ -183,7 +183,7 @@ a:hover {
 	left: 28%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 120%;
+	font-size: 100%;
 }
 
 #webaddress a {
