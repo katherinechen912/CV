@@ -5,12 +5,12 @@ title: Yujun/Katherine Chen's CV
 # Yujun/Katherine **Chen** 
 
 <div id="webaddress">
-<a href="mailto:Katherinechan912@gmail.com">Email</a>
+<a href="mailto:Yujunchen2024@163.com">Yujunchen2024@163.com</a>
 |
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
-
+|+8615821160912
 </div>
 
 ## Research interests
