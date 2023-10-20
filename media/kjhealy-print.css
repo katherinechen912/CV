@@ -125,7 +125,6 @@ h1 {
   position: relative;
   line-height: 1em;
   position: relative;
-  /* left: 28%; */
 }
 
 h1 strong {
@@ -184,7 +183,7 @@ a:hover {
 	left: 28%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 150%;
+	font-size: 120%;
 }
 
 #webaddress a {
