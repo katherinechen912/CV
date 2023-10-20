@@ -152,7 +152,7 @@ __Smart__ Customer Service Experience Innovation. Forum Consultant, Videographer
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
-__CCTV-10__ “Tell” & Sustainable Fashion & Health Tech Foundation. Diector, Media Operations Manager	
+__CCTV-10__ “Tell” & Sustainable Fashion & Health Tech Foundation. Director, Media Operations Manager	
 > Championed the project, turning vision into reality through adept media management. 
 
 `2021` 
@@ -179,8 +179,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
-
-
 
 <!-- ### Footer
 
