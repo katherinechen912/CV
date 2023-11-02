@@ -156,7 +156,7 @@ __Smart__ *Customer Service Experience Innovation Forum.* Consultant, Videograph
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
-__CCTV-10__ *“Tell” & Sustainable Fashion & Health Tech Foundation.* Media Operations Manager	
+__CCTV-10__ *Sustainable Fashion & Health Tech Foundation.* Media Operations Strategist	
 > Championed the project, turning vision into reality through adept media management. 
 
 `2021` 
