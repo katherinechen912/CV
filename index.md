@@ -21,7 +21,7 @@ title: Yujun/Katherine Chen's CV
 
 ## Education
 `2015-2019`
-__DePaul University, Master of Fine Art in Film.__
+__DePaul University, Master of Fine Art in Film__
 
 > GPA 3.79/4 MBA: Operation Management, Marketing 
 
