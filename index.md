@@ -16,7 +16,7 @@ title: Yujun/Katherine Chen's CV
 +8615821160912
 </div>
 
-## Research interests
+## Research Interests
 >  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 ## Education
@@ -31,10 +31,11 @@ __Hong Kong Baptist University, Bachelor of Cinema and Television__
 > Relevant Coursework: Mass Communication; Media Research Methods
 
 `2011-2013`
-__Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
+__Hong Kong Baptist University, Teaching English as a Second Language__
+> (Transferred)
 
-## Research experience
-### Master researcher
+## Research Experience
+### Master Researcher
 `2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
 > Pioneered in-depth archival dives into the Shaw Brothers studio's transformative journey from the 1920s to 1980s.
@@ -57,7 +58,7 @@ __DePaul University, College of Computing and Digital Media__
 
 > Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
-### Undergraduate researcher
+### Undergraduate Researcher
 `2015` 
 __Copyright Awareness and Media Download Behavior among Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
@@ -74,7 +75,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
-## Film experience
+## Film Experience
 ### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
@@ -148,7 +149,7 @@ __Phoenix Satellite Television__ Documentary Director
 __Xiamen Television Station__ News Director						 	
 > Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
-## Leadership experience
+## Leadership Experience
 ### [[video preview](https://youtu.be/tYXD7bBrYoo)]					
 `2022` 
 __Smart__ *Customer Service Experience Innovation Forum.* Consultant, Videographer, Editor 	
@@ -162,7 +163,7 @@ __CCTV-10__ *“Tell” & Sustainable Fashion & Health Tech Foundation.* Directo
 __Sanyouxing__ *Hangover Relief Products.* Consultant, Media Operations Strategist
 > Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
-## Teaching & mentoring
+## Teaching & Mentoring
 `2015` 
 __Artist Coach/Arts Portfolio Mentor__ 
 
@@ -172,13 +173,13 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 `2013` 
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
-## Technical skills
-* __Audio editing__<br />Audition; Pro Tools
-* __3D modeling__<br />C4D; Blender;<br />Unreal Engine
-* __Design tool__<br />Figma<br />Adobe Illustrator
+## Technical Skills
+* __Audio Editing__<br />Audition; Pro Tools
+* __3D Modeling__<br />C4D; Blender;<br />Unreal Engine
+* __Design Tool__<br />Figma<br />Adobe Illustrator
 * __Web Design__<br />CSS; HTML
-* __Graphic design__<br>Photoshop; Procreate;<br />Spline; Mental Canvas
-* __Programming language__<br />Python; C++ 
+* __Graphic Design__<br>Photoshop; Procreate;<br />Spline; Mental Canvas
+* __Programming Language__<br />Python; C++ 
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;<br>__Spanish__: DELE Spanish Diploma-Level A2
