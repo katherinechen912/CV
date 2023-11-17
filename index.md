@@ -35,7 +35,7 @@ __Hong Kong Baptist University, Teaching English as a Second Language__
 > (Transferred)
 
 ## Research Experience
-### Master Researcher
+### Master
 `2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
 > Pioneered in-depth archival dives into the Shaw Brothers studio's transformative journey from the 1920s to 1980s.
@@ -58,7 +58,7 @@ __DePaul University, College of Computing and Digital Media__
 
 > Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
-### Undergraduate Researcher
+### Undergraduate
 `2015` 
 __Copyright Awareness and Media Download Behavior among Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
