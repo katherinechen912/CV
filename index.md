@@ -5,7 +5,7 @@ title: Yujun/Katherine Chen's CV
 # Yujun/Katherine **Chen** 
 
 <div id="webaddress">
-<a href="mailto:Yujunchen2024@163.com">Yujunchen2024@163.com</a>
+<a href="mailto:yche1289@asu.edu">yche1289@asu.edu</a>
 |
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
@@ -20,6 +20,11 @@ title: Yujun/Katherine Chen's CV
 >  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 ## Education
+`2024-`
+__Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
+
+> PhD Advisor: Prof. Suren Jayasuriya
+
 `2015-2019`
 __DePaul University, Master of Fine Art in Film__
 
