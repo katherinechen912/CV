@@ -18,7 +18,7 @@ title: Yujun/Katherine Chen's CV
 
 ## Research Interests
 >  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
->  Researcher at The Imaging Lyceum
+   Researcher at The Imaging Lyceum
 ## Education
 `2024-`
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
