@@ -24,7 +24,7 @@ title: Yujun/Katherine Chen's CV
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
 
 > PhD Advisor: Prof. Suren Jayasuriya
-
+> Researcher at The Imaging Lyceum
 `2015-2019`
 __DePaul University, Master of Fine Art in Film__
 
@@ -140,7 +140,8 @@ __Y-Platform (Multi-channel network)__ Producer
 
 `2017-2020` 
 __Homy Casa, Inc.__ Project Coordinator, Photographer				
-> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
+> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis
+> and enhanced marketing materials, including videos and catalogs.
 
 `2016` 
 __Stagecoach Entertainment__ Script Reader						 	
