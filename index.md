@@ -13,12 +13,12 @@ title: Yujun/Katherine Chen's CV
 |
 <i class="fa fa-github"></i> <a href="https://katherinechen912.github.io/CV/">Github</a>
 | 
-+8615821160912
++14809953118
 </div>
 
 ## Research Interests
 >  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
-
+>  Researcher at The Imaging Lyceum
 ## Education
 `2024-`
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
@@ -179,12 +179,14 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical Skills
-* __Audio Editing__<br />Audition; Pro Tools
-* __3D Modeling__<br />C4D; Blender;<br />Unreal Engine
-* __Design Tool__<br />Figma<br />Adobe Illustrator
+* __Audio & Sound Design__<br />Audition; Pro Tools
+* __Visual Programming__<br />Max/MSP/Jitter;<br />TouchDesigner
+* __Video Editing & VFX__<br />Premiere;Final Cut Pro;<br />DaVinci Resolve;<br />After Effects
+* __3D & Real-Time Engines__<br />C4D; Blender;<br />Unreal Engine;Unity
 * __Web Design__<br />CSS; HTML
-* __Graphic Design__<br>Photoshop; Procreate;<br />Spline; Mental Canvas
-* __Programming Language__<br />Python; C++ 
+* __Design Tool__<br>Photoshop; Procreate;<br /> Illustrator;InDesign;<br />Spline; Mental Canvas
+* __Programming Language__<br />Python; C++
+
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;__Cantonese__: Fluent;<br>__Spanish__: DELE Spanish Diploma-Level A2
