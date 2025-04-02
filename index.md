@@ -22,9 +22,8 @@ title: Yujun/Katherine Chen's CV
 ## Education
 `2024-`
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
+> Researcher at The Imaging Lyceum; PhD Advisor: Prof. Suren Jayasuriya
 
-> PhD Advisor: Prof. Suren Jayasuriya
-> Researcher at The Imaging Lyceum
 `2015-2019`
 __DePaul University, Master of Fine Art in Film__
 
