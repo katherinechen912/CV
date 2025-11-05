@@ -40,14 +40,22 @@ __Hong Kong Baptist University, Teaching English as a Second Language__
 > (Transferred)
 
 ## Research Experience
-### Master
-`2017` 
+### PhD
+`2025` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
 > Pioneered in-depth archival dives into the Shaw Brothers studio's transformative journey from the 1920s to 1980s.
 
 > Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
 
 > Showcased findings at a pivotal graduate symposium on Asian film history.
+
+### Master
+`2017` 
+__Ephemeral Echoes: Deconstructing Marine Presence__
+> Research-based interactive installation using Kinect/RealSense and TouchDesigner to visualize human-marine ecosystem interaction via dynamic point clouds.
+
+__Audiovisual Cosmic Journeys__
+> Research-based interactive installation using Kinect/RealSense and TouchDesigner to visualize human-marine ecosystem interaction via dynamic point clouds..
 
 `2016` 
 __DePaul University, College of Computing and Digital Media__
@@ -120,6 +128,10 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ## Employment
+`2024-2025` 
+__The Imaging Lyceum__ Research Assistant
+> Developing visual computing curriculum materials, usable demos, and instructional videos to support NSF-funded IUSE projects
+
 `2023-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
 > Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
@@ -164,10 +176,6 @@ __Smart__ *Customer Service Experience Innovation Forum.* Consultant, Videograph
 `2021` 
 __CCTV-10__ *Sustainable Fashion & Health Tech Foundation.* Media Operations Strategist	
 > Championed the project, turning vision into reality through adept media management. 
-
-`2021` 
-__Sanyouxing__ *Hangover Relief Products.* Consultant, Media Operations Strategist
-> Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
 
 ## Teaching & Mentoring
 `2015` 
