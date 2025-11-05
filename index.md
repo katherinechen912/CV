@@ -101,55 +101,49 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Interactive Installations
-__Ephemeral Echoes__
-> [[Video Preview](URL_HERE)]<br />
+*A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.*
+
+__Ephemeral Echoes__ [[Video Preview](URL_HERE)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
 
-__Algorithmic Gestures__
-> [[Video Preview](URL_HERE)]<br />
+__Algorithmic Gestures__ [[Video Preview](URL_HERE)]
 > Uses MediaPipe hand-tracking to turn gestures into real-time algorithmic commands that transform geometric structures.
 
-__Liminal Tide__
-> [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
+__Liminal Tide__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > A four-window generative installation where Leap Motion hand-tracking controls fluid simulations of ocean cycles.
 
-__Air Guitar / Air Keyboard__
-> [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
+__Air Guitar / Air Keyboard__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > A performance system using MediaPipe and Unity 3D to translate hand gestures into virtual guitar/Keyboard sounds and visuals.
 
-__Embodied Fields__
-> [[Video Preview](URL_HERE)]<br />
+__Embodied Fields__ [[Video Preview](URL_HERE)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
-__Audiovisual Cosmic Journeys__
-> [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
+*These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.*
+
+__Audiovisual Cosmic Journeys__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
-__Surge 涌(Yong)__
-> [[Video Preview](URL_HERE)]<br />
+*Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.*
+
+__Surge 涌(Yong)__ [[Video Preview](URL_HERE)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
 
-__Luminous Currents 光流__
-> [[Video Preview](URL_HERE)]<br />
+__Luminous Currents 光流__ [[Video Preview](URL_HERE)]
 > A real-time fluid simulation exploring the behavior of digital energy as it flows, collides, and dissolves in a feedback field.
 
-__Transient Plexus 瞬息之网__
-> [[Video Preview](URL_HERE)]<br />
+__Transient Plexus 瞬息之网__ [[Video Preview](URL_HERE)]
 > A generative visualization of fleeting connection, where particles weave transient networks that appear, fracture, and fade.
 
-__The Garden 浮生之庭__
-> [[Video Preview](URL_HERE)]<br />
+__The Garden 浮生之庭__ [[Video Preview](URL_HERE)]
 > A generative point-cloud environment that constructs an ever-evolving digital ecosystem of light and motion.
 
-__Reconstruction Series__
-> [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
+__Reconstruction Series__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
 ## Interactive Applications
-__MovieBot__
-> [[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]<br />
+__MovieBot__ [[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
 ## Film Experience
