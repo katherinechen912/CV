@@ -100,8 +100,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
-## Selected Projects
-### Interactive Installations
+## Interactive Installations
 ### __Ephemeral Echoes__<br />[[Video Preview](URL_HERE)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
 
@@ -117,11 +116,11 @@ __Auteur Theory and Cinematic Styles Analysis__
 ### __Embodied Fields__<br />[[Video Preview](URL_HERE)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
-### Audiovisual Systems
+## Audiovisual Systems
 ### __Audiovisual Cosmic Journeys__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
-### Generative Arts
+## Generative Arts
 ### __Surge 涌(Yong)__<br />[[Video Preview](URL_HERE)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
 
@@ -137,7 +136,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 ### __Reconstruction Series__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
-### Interactive Applications
+## Interactive Applications
 ### __MovieBot__<br />[[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
