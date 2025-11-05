@@ -100,6 +100,47 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
+## Selected Projects
+### Interactive Installations
+### __Ephemeral Echoes__<br />[[Video Preview](URL_HERE)]
+> A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
+
+### __Algorithmic Gestures__<br />[[Video Preview](URL_HERE)]
+> Uses MediaPipe hand-tracking to turn gestures into real-time algorithmic commands that transform geometric structures.
+
+### __Liminal Tide__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+> A four-window generative installation where Leap Motion hand-tracking controls fluid simulations of ocean cycles.
+
+### __Air Guitar / Air Keyboard__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+> A performance system using MediaPipe and Unity 3D to translate hand gestures into virtual guitar/Keyboard sounds and visuals.
+
+### __Embodied Fields__<br />[[Video Preview](URL_HERE)]
+> A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
+
+### Audiovisual Systems
+### __Audiovisual Cosmic Journeys__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+> An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
+
+### Generative Arts
+### __Surge 涌(Yong)__<br />[[Video Preview](URL_HERE)]
+> A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
+
+### __Luminous Currents 光流__<br />[[Video Preview](URL_HERE)]
+> A real-time fluid simulation exploring the behavior of digital energy as it flows, collides, and dissolves in a feedback field.
+
+### __Transient Plexus 瞬息之网__<br />[[Video Preview](URL_HERE)]
+> A generative visualization of fleeting connection, where particles weave transient networks that appear, fracture, and fade.
+
+### __The Garden 浮生之庭__<br />[[Video Preview](URL_HERE)]
+> A generative point-cloud environment that constructs an ever-evolving digital ecosystem of light and motion.
+
+### __Reconstruction Series__<br />[[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+> Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
+
+### Interactive Applications
+### __MovieBot__<br />[[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]
+> A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
+
 ## Film Experience
 ### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
 `2020` 
