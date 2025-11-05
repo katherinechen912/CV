@@ -17,7 +17,7 @@ title: Yujun/Katherine Chen's CV
 </div>
 
 ## Research Interests
->  HCI in cinematic applications; programming arts; interactive installations
+>  Human-Centered Real-Time Systems; Embodied Interaction, Ambient Sensing & Somaesthetic Design; Generative Art, Audiovisual Systems & Virtual Production
   
 ## Education
 `2024-`
@@ -182,7 +182,7 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Technical Skills
 * __Audio & Sound Design__<br />Audition; Pro Tools
 * __Visual Programming__<br />Max/MSP/Jitter<br />TouchDesigner
-* __Programming Language__<br />Python; C++
+* __Programming Language__<br />Python; C++; Java; JavaScript
 * __3D & Real-Time Engines__<br />C4D; Blender<br />Unreal Engine;Unity
 * __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Web Design__<br />CSS; HTML
