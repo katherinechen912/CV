@@ -42,20 +42,32 @@ __Hong Kong Baptist University, Teaching English as a Second Language__
 ## Research Experience
 ### PhD
 `2025` 
+__Ephemeral Echoes: Deconstructing Marine Presence__
+> Research-based installation investigating how interactive visualization evokes ecological awareness. Explores the dissolution of digital bodies (generative point clouds) via Kinect/RealSense to reflect on human agency and impermanence.
+
+__Audiovisual Cosmic Journeys__
+> A/V system investigating how real-time generative processes mediate sensory experience. Researches sound-driven visual coding (MIDI/audio analysis) as a form of reflective interaction, bridging HCI and affective cognition.
+
+__Interactive Dimensions (Gesture & Semantics)__
+> Comparative Research-Through-Design (RtD) study analyzing how different motion sensors (Kinect, Leap Motion, MediaPipe) reshape gesture semantics and audience expectations of authorship.
+
+__Garden / Flora (In Progress)__
+> Responsive environment exploring ambient sensing as a “legible co-author”. Integrates Arduino/Raspberry Pi sensors (illuminance, temperature) to set a generative “climate,” testing how ambient data collaborates with human movement.
+
+__Algorithmic Gestures__
+> Interactive system analyzing MediaPipe hand-tracking as a living algorithm to transform generative geometric structures in real-time.
+
+__MovieBot__
+> Developed a multimodal chatbot (Streamlit, nltk, OpenCV) that integrated movie recommendations, sentiment analysis, and image processing.
+
+### Master
+`2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
 > Pioneered in-depth archival dives into the Shaw Brothers studio's transformative journey from the 1920s to 1980s.
 
 > Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
 
 > Showcased findings at a pivotal graduate symposium on Asian film history.
-
-### Master
-`2017` 
-__Ephemeral Echoes: Deconstructing Marine Presence__
-> Research-based interactive installation using Kinect/RealSense and TouchDesigner to visualize human-marine ecosystem interaction via dynamic point clouds.
-
-__Audiovisual Cosmic Journeys__
-> Research-based interactive installation using Kinect/RealSense and TouchDesigner to visualize human-marine ecosystem interaction via dynamic point clouds..
 
 `2016` 
 __DePaul University, College of Computing and Digital Media__
