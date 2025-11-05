@@ -101,94 +101,99 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Interactive Installations
-### __Ephemeral Echoes__
+__Ephemeral Echoes__
 > [[Video Preview](URL_HERE)]<br />
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
 
-### __Algorithmic Gestures__
+__Algorithmic Gestures__
 > [[Video Preview](URL_HERE)]<br />
 > Uses MediaPipe hand-tracking to turn gestures into real-time algorithmic commands that transform geometric structures.
 
-### __Liminal Tide__
+__Liminal Tide__
 > [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
 > A four-window generative installation where Leap Motion hand-tracking controls fluid simulations of ocean cycles.
 
-### __Air Guitar / Air Keyboard__
+__Air Guitar / Air Keyboard__
 > [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
 > A performance system using MediaPipe and Unity 3D to translate hand gestures into virtual guitar/Keyboard sounds and visuals.
 
-### __Embodied Fields__
+__Embodied Fields__
 > [[Video Preview](URL_HERE)]<br />
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
-### __Audiovisual Cosmic Journeys__
+__Audiovisual Cosmic Journeys__
 > [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
-### __Surge 涌(Yong)__
+__Surge 涌(Yong)__
 > [[Video Preview](URL_HERE)]<br />
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
 
-### __Luminous Currents 光流__
+__Luminous Currents 光流__
 > [[Video Preview](URL_HERE)]<br />
 > A real-time fluid simulation exploring the behavior of digital energy as it flows, collides, and dissolves in a feedback field.
 
-### __Transient Plexus 瞬息之网__
+__Transient Plexus 瞬息之网__
 > [[Video Preview](URL_HERE)]<br />
 > A generative visualization of fleeting connection, where particles weave transient networks that appear, fracture, and fade.
 
-### __The Garden 浮生之庭__
+__The Garden 浮生之庭__
 > [[Video Preview](URL_HERE)]<br />
 > A generative point-cloud environment that constructs an ever-evolving digital ecosystem of light and motion.
 
-### __Reconstruction Series__
+__Reconstruction Series__
 > [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]<br />
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
 ## Interactive Applications
-### __MovieBot__
+__MovieBot__
 > [[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]<br />
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
 ## Film Experience
-### __Dust in the Wind__<br />[[video preview](https://vimeo.com/421269223)]
-`2020` 
+__Dust in the Wind__
+`2020`
+> [[video preview](https://vimeo.com/421269223)]<br />
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
-
+>
 > Finalist: Wales International Film Fest, Cyprus International
-
+>
 > Award Winner: Tripvill International, Independent-Star Munich
 
-### __Bury__<br />[[video preview](https://youtu.be/vQkkPUOiRms)]
-`2019` 
+__Bury__
+`2019`
+> [[video preview](https://youtu.be/vQkkPUOiRms)]<br />
 > Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
-
+>
 > Finalist: Rome Prisma Film Awards
 
-### __Promise Me__<br />[[video preview](https://youtu.be/VDJEbO3byPg)]
-`2019` 
+__Promise Me__
+`2019`
+> [[video preview](https://youtu.be/VDJEbO3byPg)]<br />
 > Official Selections: San Francisco Short, etc. (7 in total)
-
+>
 > Semi-Finalist: BLASTOFF
-
+>
 > Award Winner: Falcon International Film Fest
 
-### __Memories__<br />[[video preview](https://youtu.be/W8IQD60tcD8)]
-`2018` 
+__Memories__
+`2018`
+> [[video preview](https://youtu.be/W8IQD60tcD8)]<br />
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
-
+>
 > Semi-Finalist: AltFF Alternative, Blow-Up Arthouse, etc. (3 in total)
-
+>
 > Award Winner: Feel The Reel International Film Fest
 
-### __The Sword in Qin__<br />[[video preview](https://youtu.be/FnCVFK1JDrY)]
-`2018` 
-> Official Selections: Bharat International Film Fest, etc. (6 in total) 
-
+__The Sword in Qin__
+`2018`
+> [[video preview](https://youtu.be/FnCVFK1JDrY)]<br />
+> Official Selections: Bharat International Film Fest, etc. (6 in total)
+>
 > Semi-Finalist: ShanghaiPRIDE Film Festival
-
+>
 > Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ## Employment
