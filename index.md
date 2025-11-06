@@ -101,7 +101,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Interactive Installations
-### A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.
+__A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.__
 
 __Ephemeral Echoes__ [[Video Preview](URL_HERE)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
@@ -119,13 +119,13 @@ __Embodied Fields__ [[Video Preview](URL_HERE)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
-### These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.
+__These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.__
 
 __Audiovisual Cosmic Journeys__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
-### Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.
+__Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.__
 
 __Surge 涌(Yong)__ [[Video Preview](URL_HERE)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
