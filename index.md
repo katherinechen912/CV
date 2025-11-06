@@ -103,16 +103,16 @@ __Auteur Theory and Cinematic Styles Analysis__
 ## Interactive Installations
 ### A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.
 
-__Ephemeral Echoes__ [[Video Preview](URL_HERE)]
+__Ephemeral Echoes__ [[Video Preview](https://youtu.be/2Pf54LgHnb4)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
 
-__Algorithmic Gestures__ [[Video Preview](URL_HERE)]
+__Algorithmic Gestures__ [[Video Preview](https://drive.google.com/file/d/1Wj_yQbdlreY6UIXIAZx-3mc4NTM_-Ebe/view?usp=sharing)]
 > Uses MediaPipe hand-tracking to turn gestures into real-time algorithmic commands that transform geometric structures.
 
-__Liminal Tide__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+__Liminal Tide__ [[Video Preview](URL_HERE)] [[Video Preview](https://youtu.be/cy5F9fe7duc)] [[Video Preview](https://youtu.be/iqhb3da50f8 )]
 > A four-window generative installation where Leap Motion hand-tracking controls fluid simulations of ocean cycles.
 
-__Air Guitar / Air Keyboard__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+__Air Guitar / Air Keyboard__ [[Video Preview](https://youtu.be/Rw6ZR6ZK55Q)] [[Video Preview](https://youtu.be/QVzv-YkX280)]
 > A performance system using MediaPipe and Unity 3D to translate hand gestures into virtual guitar/Keyboard sounds and visuals.
 
 __Embodied Fields__ [[Video Preview](URL_HERE)]
