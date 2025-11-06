@@ -165,12 +165,12 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 1.5em; /* Tighter line height */
+	line-height: 1.6em;  /* <-- Made this tighter (less "puffy") */
 	position: relative;
-	top: -3em; /* This is the original, correct spacing */
+	top: 3.5em;          /* <-- Pushes it down *below* the h2 title */
 	text-align: right;
 	width: 20%;
-    color: #777; /* This is the gray color you wanted */
+    color: #777;          /* This is the gray color you wanted */
 }
 
 a {
