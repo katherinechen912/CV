@@ -100,7 +100,7 @@ __Ephemeral Echoes__ [[Video Preview](https://youtu.be/2Pf54LgHnb4)]
 __Algorithmic Gestures__ [[Video Preview](https://drive.google.com/file/d/1Wj_yQbdlreY6UIXIAZx-3mc4NTM_-Ebe/view?usp=sharing)]
 > Uses MediaPipe hand-tracking to turn gestures into real-time algorithmic commands that transform geometric structures.
 
-__Liminal Tide__ [[Video Preview](URL_HERE)] [[Video Preview](https://youtu.be/cy5F9fe7duc)] [[Video Preview](https://youtu.be/iqhb3da50f8 )]
+__Liminal Tide__ [[Video Preview](https://youtu.be/cy5F9fe7duc)] [[Video Preview](https://youtu.be/iqhb3da50f8 )]
 > A four-window generative installation where Leap Motion hand-tracking controls fluid simulations of ocean cycles.
 
 __Air Guitar / Air Keyboard__ [[Video Preview](https://youtu.be/Rw6ZR6ZK55Q)] [[Video Preview](https://youtu.be/QVzv-YkX280)]
