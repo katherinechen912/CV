@@ -167,7 +167,7 @@ h3 {
 	font-size: 1em;
 	line-height: 1.5em; /* Tighter line height */
 	position: relative;
-	top: 1.5em; /* This is the original, correct spacing */
+	top: -3em; /* This is the original, correct spacing */
 	text-align: right;
 	width: 20%;
     color: #777; /* This is the gray color you wanted */
