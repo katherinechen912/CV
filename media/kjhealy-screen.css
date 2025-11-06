@@ -174,7 +174,7 @@ h3 {
 
 a {
 	color: #0056b3; /* Default link blue */
-	/* Underline is kept by default */
+	text-decoration: none; /* <-- This removes the underline */
 }
 
 a:hover {
