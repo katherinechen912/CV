@@ -101,7 +101,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Interactive Installations
-> __A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.__
+### A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.
 
 __Ephemeral Echoes__ [[Video Preview](URL_HERE)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
@@ -119,13 +119,13 @@ __Embodied Fields__ [[Video Preview](URL_HERE)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
-> __These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.__
+### These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.
 
 __Audiovisual Cosmic Journeys__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
-> __Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.__
+### Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.
 
 __Surge 涌(Yong)__ [[Video Preview](URL_HERE)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
@@ -133,7 +133,7 @@ __Surge 涌(Yong)__ [[Video Preview](URL_HERE)]
 __Luminous Currents 光流__ [[Video Preview](URL_HERE)]
 > A real-time fluid simulation exploring the behavior of digital energy as it flows, collides, and dissolves in a feedback field.
 
-__Transient Plexus 瞬息之网__ [[Video Preview]((URL_HERE)]
+__Transient Plexus 瞬息之网__ [[Video Preview](URL_HERE)]
 > A generative visualization of fleeting connection, where particles weave transient networks that appear, fracture, and fade.
 
 __The Garden 浮生之庭__ [[Video Preview](URL_HERE)]
@@ -147,7 +147,7 @@ __MovieBot__ [[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
 ## Film Experience
-__Dust in the Wind__ [[video preview](https://vimeo.com/421269223)]
+__Dust in the Wind__ [[video preview](httpsVIMEO_URL_HERE)]
 `2020`
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 >
@@ -155,13 +155,13 @@ __Dust in the Wind__ [[video preview](https://vimeo.com/421269223)]
 >
 > Award Winner: Tripvill International, Independent-Star Munich
 
-__Bury__ [[video preview](https://youtu.be/vQkkPUOiRms)]
+__Bury__ [[video preview](YOUTUBE_URL_HERE)]
 `2019`
 > Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 >
 > Finalist: Rome Prisma Film Awards
 
-__Promise Me__ [[video preview](https://youtu.be/VDJEbO3byPg)]
+__Promise Me__ [[video preview](YOUTUBE_URL_HERE)]
 `2019`
 > Official Selections: San Francisco Short, etc. (7 in total)
 >
@@ -169,7 +169,7 @@ __Promise Me__ [[video preview](https://youtu.be/VDJEbO3byPg)]
 >
 > Award Winner: Falcon International Film Fest
 
-__Memories__ [[video preview](https://youtu.be/W8IQD60tcD8)]
+__Memories__ [[video preview](YOUTUBE_URL_HERE)]
 `2018`
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 >
@@ -177,7 +177,7 @@ __Memories__ [[video preview](https://youtu.be/W8IQD60tcD8)]
 >
 > Award Winner: Feel The Reel International Film Fest
 
-__The Sword in Qin__ [[video preview](https://youtu.be/FnCVFK1JDrY)]
+__The Sword in Qin__ [[video preview](YOUTUBE_URL_HERE)]
 `2018`
 > Official Selections: Bharat International Film Fest, etc. (6 in total)
 >
