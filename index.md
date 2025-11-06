@@ -101,6 +101,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
 
 ## Interactive Installations
+`2025` 
 ### A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.
 
 __Ephemeral Echoes__ [[Video Preview](https://youtu.be/2Pf54LgHnb4)]
