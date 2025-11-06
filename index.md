@@ -20,7 +20,7 @@ title: Yujun/Katherine Chen's CV
 >  Human-Centered Real-Time Systems; Embodied Interaction, Ambient Sensing & Somaesthetic Design; Generative Art, Audiovisual Systems & Virtual Production
   
 ## Education
-`2024-`
+`2024`
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
 
 > Researcher at The Imaging Lyceum; PhD Advisor: Prof. Suren Jayasuriya
