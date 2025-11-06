@@ -20,7 +20,7 @@ title: Yujun/Katherine Chen's CV
 >  Human-Centered Real-Time Systems; Embodied Interaction, Ambient Sensing & Somaesthetic Design; Generative Art, Audiovisual Systems & Virtual Production
   
 ## Education
-`2024`
+`2024-`
 __Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
 
 > Researcher at The Imaging Lyceum; PhD Advisor: Prof. Suren Jayasuriya
@@ -41,7 +41,7 @@ __Hong Kong Baptist University, Teaching English as a Second Language__
 
 ## Research Experience
 ### PhD
-`2024–`
+`2024`
 __Ephemeral Echoes — Embodied Ecological Visualization__
 > Research-based interactive installation using Kinect/RealSense depth sensing and generative point clouds to study how gesture-driven dissolution and recomposition of “marine bodies” can evoke ecological awareness and reflection on human agency and impermanence.
 
