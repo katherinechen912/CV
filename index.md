@@ -221,12 +221,13 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical Skills
 * __Audio & Sound Design__<br />Audition; Pro Tools
-* __Visual Programming__<br />Max/MSP/Jitter<br />TouchDesigner
+* __Creative Coding & Real-time Graphics__<br />Max/MSP/Jitter<br />TouchDesigner<br />p5.js; GLSL; OpenGL
 * __Programming Language__<br />Python; C++; Java; JavaScript
 * __3D & Real-Time Engines__<br />C4D; Blender<br />Unreal Engine;Unity
 * __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Web Design__<br />CSS; HTML
 * __Design Tool__<br>Photoshop; Procreate;<br /> Illustrator;InDesign;<br />Spline; Mental Canvas
+
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;__Cantonese__: Fluent;<br>__Spanish__: DELE Spanish Diploma-Level A2
