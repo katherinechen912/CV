@@ -63,7 +63,7 @@ __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brothers__
 > Conducted archival research on Shaw Brothers Studio’s evolution (1920s–1980s) and its influence on martial arts cinema. Presented findings at a graduate symposium.
 
 `2016`
-__DePaul University, College of Computing and Digital Media — Research Assistant__
+__DePaul University, College of Computing and Digital Media__
 > Compiled a database (95+ articles) on diversity's impact on box office revenue and authored 10+ reports on global film distribution.
 > Researched narrative frameworks for script coverage, analyzed 50+ films, and piloted 20+ projects to integrate research insights into practice.
 
@@ -164,53 +164,50 @@ __The Sword in Qin__ [[video preview](https://youtu.be/FnCVFK1JDrY)]
 > Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ## Employment
-`2024-2025` 
+`2024-2025`
 __The Imaging Lyceum__ Research Assistant
-> Developing visual computing curriculum materials, usable demos, and instructional videos to support NSF-funded IUSE projects
+> Developing visual computing curriculum materials, usable demos, and instructional videos to support NSF-funded IUSE projects.
 
-`2023-` 
+`2023-`
 __Yalong International__ Senior Manager, Mobile Game Distribution
 > Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
 
 > Refined strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
 
-`2021-2023` 
-__Ernst & Young EY wavespace™__ Videographer, Editor, and Designer 
+`2021-2023`
+__Ernst & Young EY wavespace™__ Videographer, Editor, and Designer
 > Spearheaded video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
 
-> Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
+> Directed high-quality forum and event productions, including the Smart Customer Service Experience Innovation Forum [[video preview](https://www.youtube.com/watch?v=tYXD7bBrYoo)] and the China International Import Expo (CIIE) [[video preview](https://www.youtube.com/watch?v=14wZR4ljDUU)].
 
-`2020-2021` 
+> Led in the Metaverse Lab [[video preview](https://www.youtube.com/watch?v=9xlxTSSj10c)], aiding clients in embracing the decentralized Metaverse and Web3 economy.
+
+`2020-2021`
 __Y-Platform (Multi-channel network)__ Producer
 > Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
 
-> Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily. 
+> Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily.
 
-`2017-2020` 
-__Homy Casa, Inc.__ Project Coordinator, Photographer				
+`2017-2020`
+__Homy Casa, Inc.__ Project Coordinator, Photographer
 > Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis
 > and enhanced marketing materials, including videos and catalogs.
 
-`2016` 
-__Stagecoach Entertainment__ Script Reader						 	
+`2021`
+__CCTV-10 (Sustainable Fashion & Health Tech Foundation)__ Media Operations Strategist
+> Championed the project, turning vision into reality through adept media management.
+
+`2016`
+__Stagecoach Entertainment__ Script Reader
 > Analyzed scripts, offering coverage of critical elements and pinpointing potential hits for varied audiences.
 
-`2015` 
-__Phoenix Satellite Television__ Documentary Director						 	
+`2015`
+__Phoenix Satellite Television__ Documentary Director
 > Directed and edited documentaries, ensuring compelling narratives and top-tier production quality.
 
-`2015` 
-__Xiamen Television Station__ News Director						 	
+`2015`
+__Xiamen Television Station__ News Director
 > Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
-
-## Leadership Experience		
-`2022` 
-__Smart__ *Customer Service Experience Innovation Forum.* [[video preview](https://youtu.be/tYXD7bBrYoo)] Consultant, Videographer, Editor 	
-> Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
-
-`2021` 
-__CCTV-10__ *Sustainable Fashion & Health Tech Foundation.* Media Operations Strategist	
-> Championed the project, turning vision into reality through adept media management. 
 
 ## Teaching & Mentoring
 `2015` 
@@ -230,8 +227,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Web Design__<br />CSS; HTML
 * __Design Tool__<br>Photoshop; Procreate;<br /> Illustrator;InDesign;<br />Spline; Mental Canvas
-
-
 
 ## Language
 __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;__Cantonese__: Fluent;<br>__Spanish__: DELE Spanish Diploma-Level A2
