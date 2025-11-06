@@ -115,39 +115,39 @@ __Liminal Tide__ [[Video Preview](URL_HERE)] [[Video Preview](https://youtu.be/c
 __Air Guitar / Air Keyboard__ [[Video Preview](https://youtu.be/Rw6ZR6ZK55Q)] [[Video Preview](https://youtu.be/QVzv-YkX280)]
 > A performance system using MediaPipe and Unity 3D to translate hand gestures into virtual guitar/Keyboard sounds and visuals.
 
-__Embodied Fields__ [[Video Preview](URL_HERE)]
+__Embodied Fields__ [[Video Preview](https://youtu.be/aey0_m2SF8w)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
 ### These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.
 
-__Audiovisual Cosmic Journeys__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+__Audiovisual Cosmic Journeys__ [[Video Preview](https://youtu.be/5PhFuaXQtzA)] [[Video Preview](https://youtu.be/ECBigNrOKN8)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
 ### Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.
 
-__Surge 涌(Yong)__ [[Video Preview](URL_HERE)]
+__Surge 涌(Yong)__ [[Video Preview](https://youtu.be/I9BRMQ53z5I)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
 
-__Luminous Currents 光流__ [[Video Preview](URL_HERE)]
+__Luminous Currents 光流__ [[Video Preview](https://drive.google.com/file/d/1QCz0DjQ5DUXM7I83V-B0B64dfizxx_3s/view?usp=sharing)]
 > A real-time fluid simulation exploring the behavior of digital energy as it flows, collides, and dissolves in a feedback field.
 
-__Transient Plexus 瞬息之网__ [[Video Preview](URL_HERE)]
+__Transient Plexus 瞬息之网__ [[Video Preview](https://youtu.be/1bCLEZgFL5M)]
 > A generative visualization of fleeting connection, where particles weave transient networks that appear, fracture, and fade.
 
-__The Garden 浮生之庭__ [[Video Preview](URL_HERE)]
+__The Garden 浮生之庭__ [[Video Preview](https://youtu.be/O3RlPe0IDlc)]
 > A generative point-cloud environment that constructs an ever-evolving digital ecosystem of light and motion.
 
-__Reconstruction Series__ [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)] [[Video Preview](URL_HERE)]
+__Reconstruction Series__ [[Video Preview](https://youtu.be/L4G0k_DmhNU)] [[Video Preview](https://youtu.be/Jz_ASvKmbbw)] [[Video Preview](https://youtu.be/5Dw_YgRYyxM)]
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
 ## Interactive Applications
-__MovieBot__ [[Live Demo](URL_HERE)] [[Video Preview](URL_HERE)]
+__MovieBot__ [[Live Demo](https://moviebot-plus.streamlit.app/)] [[Video Preview](https://drive.google.com/file/d/1A2DTiE2tXMLmaDVR5RnXrETQrA1JKU1H/view?usp=sharing)]
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
 ## Film Experience
-__Dust in the Wind__ [[video preview](httpsVIMEO_URL_HERE)]
+__Dust in the Wind__ [[video preview](https://vimeo.com/421269223?fl=pl&fe=sh)]
 `2020`
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
 >
@@ -155,13 +155,13 @@ __Dust in the Wind__ [[video preview](httpsVIMEO_URL_HERE)]
 >
 > Award Winner: Tripvill International, Independent-Star Munich
 
-__Bury__ [[video preview](YOUTUBE_URL_HERE)]
+__Bury__ [[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019`
 > Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 >
 > Finalist: Rome Prisma Film Awards
 
-__Promise Me__ [[video preview](YOUTUBE_URL_HERE)]
+__Promise Me__ [[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019`
 > Official Selections: San Francisco Short, etc. (7 in total)
 >
@@ -169,7 +169,7 @@ __Promise Me__ [[video preview](YOUTUBE_URL_HERE)]
 >
 > Award Winner: Falcon International Film Fest
 
-__Memories__ [[video preview](YOUTUBE_URL_HERE)]
+__Memories__ [[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018`
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 >
@@ -177,7 +177,7 @@ __Memories__ [[video preview](YOUTUBE_URL_HERE)]
 >
 > Award Winner: Feel The Reel International Film Fest
 
-__The Sword in Qin__ [[video preview](YOUTUBE_URL_HERE)]
+__The Sword in Qin__ [[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018`
 > Official Selections: Bharat International Film Fest, etc. (6 in total)
 >
