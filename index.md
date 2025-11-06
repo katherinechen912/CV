@@ -102,7 +102,6 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 ## Interactive Installations
 `2025` 
-### A collection exploring the dialogue between human motion and algorithmic space using real-time sensing (Kinect, Leap Motion, MediaPipe). These works transform gesture into fields of light and sound, where the body becomes both performer and instrument.
 
 __Ephemeral Echoes__ [[Video Preview](https://youtu.be/2Pf54LgHnb4)]
 > A four-window installation that visualizes the dissolution of bodily presence into a marine environment using depth tracking.
@@ -120,13 +119,13 @@ __Embodied Fields__ [[Video Preview](https://youtu.be/aey0_m2SF8w)]
 > A live A/V system using MediaPipe full-body tracking to map a performer's motion to sound synthesis and a 3D avatar.
 
 ## Audiovisual Systems
-### These systems explore the dynamic interplay between sound, motion, and light. Each functions as a real-time feedback loop, translating audio frequencies, rhythm, and sensor data into visible architectures of energy and form.
+`2025` 
 
 __Audiovisual Cosmic Journeys__ [[Video Preview](https://youtu.be/5PhFuaXQtzA)] [[Video Preview](https://youtu.be/ECBigNrOKN8)]
 > An 11-minute real-time A/V performance in TouchDesigner translating MIDI/audio into generative space-inspired visuals.
 
 ## Generative Arts
-### Works emerging at the intersection of code, perception, and motion. These projects (using TouchDesigner, p5.js, and GLSL) investigate digital materiality, exploring how algorithmic systems can evoke presence and impermanence.
+`2025` 
 
 __Surge 涌(Yong)__ [[Video Preview](https://youtu.be/I9BRMQ53z5I)]
 > A GLSL-based fluid simulation in TouchDesigner visualizing the continuous transformation of virtual matter driven by turbulence.
@@ -144,6 +143,7 @@ __Reconstruction Series__ [[Video Preview](https://youtu.be/L4G0k_DmhNU)] [[Vide
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
 ## Interactive Applications
+`2025` 
 __MovieBot__ [[Live Demo](https://moviebot-plus.streamlit.app/)] [[Video Preview](https://drive.google.com/file/d/1A2DTiE2tXMLmaDVR5RnXrETQrA1JKU1H/view?usp=sharing)]
 > A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
 
