@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0;
+	margin-bottom: 0.3em;
 	margin-right: 0;
 	width: 70%;
 }
@@ -156,21 +156,33 @@ h2 {
 }
 
 h3 {
+	color: #777; /* This is the gray color you wanted */
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 1.5em; /* Tighter line height */
 	position: relative;
-	top: 1.5em;
+	top: 0.5em; /* This fixes the "huge space". Adjust 0.5em as needed. */
 	text-align: right;
 	width: 20%;
 }
 
 a {
-	color: inherit;
-	/*text-decoration:none*/
+	color: #0056b3; /* Default link blue */
+	/* Underline is kept by default */
 }
 
 a:hover {
-	color:#39f
+	color: #39f; /* Lighter blue on hover */
+	text-shadow: 0 0 5px #39f; /* This is the "glow" effect */
+}
+
+a:active {
+	color: #add8e6; /* Lightest blue when clicking */
+}
+
+/* This rule MUST come AFTER the 'a' rule to keep your header links gray */
+#webaddress a {
+	color: inherit;
+	text-decoration: none;
 }
 
 #webaddress {
