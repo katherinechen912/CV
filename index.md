@@ -41,64 +41,55 @@ __Hong Kong Baptist University, Teaching English as a Second Language__
 
 ## Research Experience
 ### PhD
-`2025` 
-__Ephemeral Echoes: Deconstructing Marine Presence__
-> Research-based installation investigating how interactive visualization evokes ecological awareness. Explores the dissolution of digital bodies (generative point clouds) via Kinect/RealSense to reflect on human agency and impermanence.
+`2024–`
+__Ephemeral Echoes — Embodied Ecological Visualization__
+> Research-based interactive installation using Kinect/RealSense depth sensing and generative point clouds to study how gesture-driven dissolution and recomposition of “marine bodies” can evoke ecological awareness and reflection on human agency and impermanence.
 
-__Audiovisual Cosmic Journeys__
-> A/V system investigating how real-time generative processes mediate sensory experience. Researches sound-driven visual coding (MIDI/audio analysis) as a form of reflective interaction, bridging HCI and affective cognition.
+__Audiovisual Cosmic Journeys — Sound-Driven Generative Performance__
+> Real-time A/V performance system (TouchDesigner, MIDI, audio analysis) investigating how different audio–visual mappings shape perceptual focus and affect. Used as a testbed for studying mapping grammar, performer agency, and the role of sound as a driver of visual cognition.
 
-__Interactive Dimensions (Gesture & Semantics)__
-> Comparative Research-Through-Design (RtD) study analyzing how different motion sensors (Kinect, Leap Motion, MediaPipe) reshape gesture semantics and audience expectations of authorship.
+__Interactive Dimensions — Gesture Semantics Across Sensors__
+> Comparative research-through-design (RtD) study examining how different motion-tracking systems (Kinect, Leap Motion, MediaPipe) reconfigure gesture semantics and authorship. Kept visual output constant while swapping sensors to analyze how hardware choice affects what “counts” as meaningful movement for both performers and audiences.
 
-__Garden / Flora (In Progress)__
-> Responsive environment exploring ambient sensing as a “legible co-author”. Integrates Arduino/Raspberry Pi sensors (illuminance, temperature) to set a generative “climate,” testing how ambient data collaborates with human movement.
+__Garden / Flora (in progress) — Ambient Sensing as Legible Co-Author__
+> Responsive environment that integrates Arduino/Raspberry Pi environmental sensors (illuminance, temperature, humidity, air quality) to set a generative “climate,” while body movement composes spatial structure. Used to explore design patterns where ambient data collaborates with, rather than overrides, human movement in ecological visualization.
 
-__Algorithmic Gestures__
-> Interactive system analyzing MediaPipe hand-tracking as a living algorithm to transform generative geometric structures in real-time.
-
-__MovieBot__
-> Developed a multimodal chatbot (Streamlit, nltk, OpenCV) that integrated movie recommendations, sentiment analysis, and image processing.
+__Machine Learning and Pattern Recognition, Synthesis (theoretical research)__
+> Ongoing theoretical project synthesizing ideas from information theory, philosophy of mind, and media theory to examine the limits of pattern recognition in machine learning versus human meaning-making. Articulates a conceptual framework for designing interactive systems where statistical models remain tools in human hands rather than substitutes for authorship.
 
 ### Master
-`2017` 
-__Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother__
-> Pioneered in-depth archival dives into the Shaw Brothers studio's transformative journey from the 1920s to 1980s.
+`2017`
+__Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brothers__
+> Conducted archival research on Shaw Brothers Studio’s evolution from the 1920s–1980s, analyzing its influence on Hong Kong martial arts cinema and key auteur directors.
 
-> Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
+> Presented findings at a graduate symposium on Asian film history, highlighting shifts in genre, industrial practice, and transnational reception.
 
-> Showcased findings at a pivotal graduate symposium on Asian film history.
+`2016`
+__DePaul University, College of Computing and Digital Media — Research Assistant__
+> Compiled a database from 95+ industry and academic articles to examine how on- and off-screen diversity correlates with box office revenue and global studio strategy.
 
-`2016` 
-__DePaul University, College of Computing and Digital Media__
-> Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+> Authored 10+ reports on global film adaptations, tracing distribution trends and audience shifts.
 
-> Authored ten reports on global film adaptations, underscoring distribution trends and audience shifts.
+> Researched narrative frameworks (three-act structure, hero’s journey) and applied them in script coverage for peer projects.
 
-> Orchestrated research on story frameworks, dissecting conventional narrative arcs and the hero's journey.
-
-> Crafted 8+ script coverage, pinpointing strengths and areas of improvement in peer submissions.
-
-> Conducted analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
-
-> Piloted 20+ film projects, infusing research insights into the cinematic narrative.
+> Analyzed 50+ films for genre, plot structure, and stylistic evolution, and piloted 20+ small film projects integrating research insights into practice.
 
 ### Undergraduate
-`2015` 
+`2015`
 __Copyright Awareness and Media Download Behavior among Students in China__
-> Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
+> Designed and administered a questionnaire study; analyzed data in SPSS using frequency, crosstab, and correlation methods.
 
-> Generated a report on China's copyright evolution, intellectual property, and media piracy.
+> Produced a report on the evolution of copyright policy, intellectual property awareness, and media piracy behavior among Chinese university students.
 
-`2014` 
+`2014`
 __Auteur Theory and Cinematic Styles Analysis__
-> Spearheaded a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
+> Led a comparative study of Ingmar Bergman and Robert Bresson’s stylistic signatures using close film analysis.
 
-> Delved into Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
+> Examined Billy Wilder’s visual style and recurring themes to articulate his contribution to classical Hollywood cinema.
 
-> Scrutinized the strategic color usage in Yi-Mou Zhang's "Red Sorghum" and its narrative impact.
+> Analyzed color strategy in Zhang Yimou’s Red Sorghum to show how chroma supports narrative and emotional arc.
 
-> Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
+> Applied multiple qualitative methodologies to clarify how auteur approaches shape cinematic form and audience reception.
 
 ## Interactive Installations
 `2025` 
