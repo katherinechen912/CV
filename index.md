@@ -226,10 +226,9 @@ __Phoenix Satellite Television__ Documentary Director
 __Xiamen Television Station__ News Director						 	
 > Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
-## Leadership Experience
-### [[video preview](https://youtu.be/tYXD7bBrYoo)]					
+## Leadership Experience		
 `2022` 
-__Smart__ *Customer Service Experience Innovation Forum.* Consultant, Videographer, Editor 	
+__Smart__ *Customer Service Experience Innovation Forum.* [[video preview](https://youtu.be/tYXD7bBrYoo)] Consultant, Videographer, Editor 	
 > Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
 
 `2021` 
