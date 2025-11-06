@@ -64,14 +64,14 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
 }
 
 blockquote {
-    margin-top: 0.2em; /* Controls space between title and description */
-    margin-bottom: 1.2em; /* This is the new "space between projects" */
+    margin-top: 0.1em; /* Controls space between title and description */
+    margin-bottom: 0.5em; /* This is the new "space between projects" */
     margin-left: 0;
     margin-right: 0;
 }
