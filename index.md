@@ -225,8 +225,8 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * __Graphics Programming__<br />p5.js; GLSL; OpenGL
 * __Programming Language__<br />Python; C++; Java; JavaScript
 * __3D & Real-Time Engines__<br />C4D; Blender<br />Unreal Engine;Unity
-* __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Web Design__<br />CSS; HTML
+* __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Design Tool__<br>Photoshop; Procreate;<br /> Illustrator;InDesign;<br />Spline; Mental Canvas
 
 
