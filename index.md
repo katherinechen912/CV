@@ -7,7 +7,9 @@ title: Yujun/Katherine Chen's CV
 <div id="webaddress">
 <a href="mailto:yche1289@asu.edu">yche1289@asu.edu</a>
 |
-<i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
+<i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Film Showreel</a>
+|
+<i class="fa fa-youtube"></i> <a href="https://youtu.be/uc_bUJie5BQ">Interactive Showreel</a>
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 |
