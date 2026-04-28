@@ -13,7 +13,7 @@ title: Yujun/Katherine Chen's CV
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 |
-<i class="fa fa-github"></i> <a href="https://katherinechen912.github.io/CV/">Github</a>
+<i class="fa fa-github"></i> <a href="https://github.com/katherinechen912">Github</a>
 | 
 +14809953118
 </div>
