@@ -229,16 +229,6 @@ __Phoenix Satellite Television__ Documentary Director
 __Xiamen Television Station__ News Director
 > Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
-## Teaching & Mentoring
-`2015` 
-__Artist Coach/Arts Portfolio Mentor__ 
-
-`2013` 
-__Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Guizhou
-
-`2013` 
-__English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
-
 ## Technical Skills
 * __Audio & Sound Design__<br />Audition; Pro Tools
 * __Visual Programming__<br />Max/MSP/Jitter<br />TouchDesigner
