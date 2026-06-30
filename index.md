@@ -5,7 +5,7 @@ title: Yujun/Katherine Chen's CV
 # Yujun/Katherine **Chen** 
 
 <div id="webaddress">
-<a href="mailto:yche1289@asu.edu">yche1289@asu.edu</a>
+<a href="mailto:Katherinechan912@tamu.edu">Katherinechan912@tamu.edu</a>
 |
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Film Showreel</a>
 |
@@ -14,16 +14,20 @@ title: Yujun/Katherine Chen's CV
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/katherinechen912">Github</a>
-| 
-+14809953118
+
 </div>
 
 ## Research Interests
 >  Human-Centered Real-Time Systems; Embodied Interaction, Ambient Sensing & Somaesthetic Design; Generative Art, Audiovisual Systems & Virtual Production
   
 ## Education
-`2024-`
-__Arizona State University, Doctor of Philosophy in Media Arts and Sciences__
+`2016-`
+__Texas A&M University, Doctor of Philosophy in Visual Computing and Interactive Media__
+
+> Instructor of Record
+
+`2024-2016`
+__Arizona State University, Master of Science in Media Arts and Sciences__
 
 > Researcher at The Imaging Lyceum; PhD Advisor: Prof. Suren Jayasuriya
 
@@ -225,8 +229,8 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * __Audio & Sound Design__<br />Audition; Pro Tools
 * __Visual Programming__<br />Max/MSP/Jitter<br />TouchDesigner
 * __Graphics Programming__<br />p5.js; GLSL; OpenGL
-* __Programming Language__<br />Python; C++; Java; JavaScript; Swift
-* __3D & Real-Time Engines__<br />C4D; Blender<br />Unreal Engine;Unity
+* __Programming Language__<br />Python; C++; Java; JavaScript; Swift; GDScript
+* __3D & Real-Time Engines__<br />C4D; Blender<br />Unreal Engine;Unity;Godot Engine
 * __Web Design__<br />CSS; HTML
 * __Video Editing & VFX__<br />Premiere;Final Cut Pro<br />DaVinci Resolve;<br />After Effects
 * __Design Tool__<br>Photoshop; Procreate;<br /> Illustrator;InDesign;<br />Spline; Mental Canvas
@@ -238,6 +242,6 @@ __English__: Fluent; __Mandarin__: Native; __Taiwanese__: Native;__Cantonese__: 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2026 -->
 
 
