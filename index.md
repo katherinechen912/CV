@@ -24,7 +24,7 @@ title: Yujun/Katherine Chen's CV
 `2026-`
 __Texas A&M University, Doctor of Philosophy in Visual Computing and Interactive Media__
 
-> Instructor of Record
+> GPA 3.79/4 Instructor of Record
 
 `2024-2026`
 __Arizona State University, Master of Science in Media Arts and Sciences__
@@ -125,12 +125,26 @@ __The Garden 浮生之庭__ [[Video Preview](https://youtu.be/O3RlPe0IDlc)]
 __Reconstruction Series__ [[Video Preview](https://youtu.be/L4G0k_DmhNU)] [[Video Preview](https://youtu.be/Jz_ASvKmbbw)] [[Video Preview](https://youtu.be/5Dw_YgRYyxM)]
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
-## Interactive Applications
+## Interactive Applications & Games
+`2026` 
+__Lycan__ [[Video Preview](https://youtu.be/FbAEFSmrZUQ?si=Sdr0NWHcmY7QQxxJ)]
+> An in-person multiplayer companion app (Swift / SwiftUI) for the classic social deduction game, Werewolf. Engineered a multi-client state synchronization system that orchestrates complex, real-time game data—such as encrypted role distribution and live voting—across players' individual smartphones simultaneously.
+
+__Patient 23__ [[Video Preview](https://youtu.be/blBuZpgeTR4)]
+> A narrative-driven psychological thriller (Swift / SpriteKit) inspired by the atmospheric tension of Silent Hill and Rusty Lake. Completed the core gameplay loop and puzzle mechanics, currently migrating to the Godot engine to achieve advanced 2D visual fidelity and multi-platform capabilities.
+
+__Combat Arena: Survivors__ [[Play Live](https://katherinechan912.itch.io/)] [[Source Code](https://github.com/katherinechen912/Combat-Arena--Survivors)]
+> A fast-paced 2D Survivors-like arena action game developed in Godot 4. Engineered a custom exponential XP curve for late-game balancing, an animation state machine, auto-attack targeting, and designed a custom retro-cyberpunk UI/HUD.
+
 `2025` 
 __MovieBot__ [[Live Demo](https://moviebot-plus.streamlit.app/)] [[Video Preview](https://drive.google.com/file/d/1A2DTiE2tXMLmaDVR5RnXrETQrA1JKU1H/view?usp=sharing)]
-> A multimodal chatbot integrating IMDb recommendations, sentiment analysis, and image processing, built with Streamlit, nltk, and OpenCV.
+> A multimodal chatbot built with Streamlit. Integrates IMDb data for intelligent film recommendations, nltk for natural language processing and sentiment analysis of movie reviews, and OpenCV for visual data processing.
 
-## Film Experience
+## Film & Real-Time Cinematics
+`2026`
+__Echoes of Osaka__ [[Video Preview](https://www.youtube.com/watch?v=CiP7bFPu6ow)]
+> A real-time 3D cinematic short film utilizing Unreal Engine 5 to explore spatial storytelling and real-time rendering workflows.
+
 __Dust in the Wind__ [[video preview](https://vimeo.com/421269223?fl=pl&fe=sh)]
 `2020`
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
