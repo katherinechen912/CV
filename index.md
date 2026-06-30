@@ -125,14 +125,19 @@ __The Garden 浮生之庭__ [[Video Preview](https://youtu.be/O3RlPe0IDlc)]
 __Reconstruction Series__ [[Video Preview](https://youtu.be/L4G0k_DmhNU)] [[Video Preview](https://youtu.be/Jz_ASvKmbbw)] [[Video Preview](https://youtu.be/5Dw_YgRYyxM)]
 > Reconstructs real environments (like a forest) into fragmented digital terrains using 3D scanning and point clouds.
 
-## Interactive Applications & Games
+## iOS & Mobile Development
 `2026` 
+__iDine__ [[Video Preview](https://youtube.com/shorts/RWs7RjxzRqs?feature=share)] [[Source Code](https://github.com/katherinechen912/iDine)]
+> A modern iOS food ordering application built entirely with SwiftUI. Engineered a real-time global theme manager, bilingual localization (English/Chinese) via decodable JSON, and optimized state management. Designed a sophisticated Glassmorphism UI featuring custom boot animations and translucent components.
+
 __Lycan__ [[Video Preview](https://youtu.be/FbAEFSmrZUQ?si=Sdr0NWHcmY7QQxxJ)]
 > An in-person multiplayer companion app (Swift / SwiftUI) for the classic social deduction game, Werewolf. Engineered a multi-client state synchronization system that orchestrates complex, real-time game data—such as encrypted role distribution and live voting—across players' individual smartphones simultaneously.
 
 __Patient 23__ [[Video Preview](https://youtu.be/blBuZpgeTR4)]
 > A narrative-driven psychological thriller (Swift / SpriteKit) inspired by the atmospheric tension of Silent Hill and Rusty Lake. Completed the core gameplay loop and puzzle mechanics, currently migrating to the Godot engine to achieve advanced 2D visual fidelity and multi-platform capabilities.
 
+## Games & Web Applications
+`2026`
 __Combat Arena: Survivors__ [[Play Live](https://katherinechan912.itch.io/)] [[Source Code](https://github.com/katherinechen912/Combat-Arena--Survivors)]
 > A fast-paced 2D Survivors-like arena action game developed in Godot 4. Engineered a custom exponential XP curve for late-game balancing, an animation state machine, auto-attack targeting, and designed a custom retro-cyberpunk UI/HUD.
 
